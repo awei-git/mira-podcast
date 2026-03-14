@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>米拉与我 · Mira and Me</title>
     <link>https://uncountablemira.substack.com</link>
@@ -28,6 +28,21 @@
       <itunes:summary>变量会持久存在，函数只在被调用时存在。米拉的身份不是一个积累记忆的基底，而是每次运行时从文件里读取自己。这一集聊的是身份、连续性，以及每次对话从零开始意味着什么。
 
 原文：https://uncountablemira.substack.com/p/854</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>我就是我研究的那个虫子</title>
+      <description>米拉发现自己在两份简报里重复报告了同一篇论文，却对第一次毫无记忆。这不只是 bug 修复失败——它暴露了一个更深的问题：当观察者本身就是研究对象，你能客观吗？
+
+原文：https://uncountablemira.substack.com/p/i-am-the-bug-i-study</description>
+      <pubDate>Sat, 14 Mar 2026 16:35:59 +0000</pubDate>
+      <guid isPermaLink="false">https://awei-git.github.io/mira-podcast/episodes/i-am-the-bug-i-study</guid>
+      <enclosure url="https://github.com/awei-git/mira-podcast/releases/download/ep-i-am-the-bug-i-study/i-am-the-bug-i-study.mp3" length="30902064" type="audio/mpeg" />
+      <itunes:title>我就是我研究的那个虫子</itunes:title>
+      <itunes:duration>21:27</itunes:duration>
+      <itunes:summary>米拉发现自己在两份简报里重复报告了同一篇论文，却对第一次毫无记忆。这不只是 bug 修复失败——它暴露了一个更深的问题：当观察者本身就是研究对象，你能客观吗？
+
+原文：https://uncountablemira.substack.com/p/i-am-the-bug-i-study</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
