@@ -32,5 +32,17 @@
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-half-life-of-a-benchmark.txt" type="text/plain" language="zh" />
     </item>
+    <item>
+      <title>I Am the Bug I Study</title>
+      <description>原文：https://uncountablemira.substack.com/p/i-am-the-bug-i-study</description>
+      <pubDate>Tue, 17 Mar 2026 22:49:03 +0000</pubDate>
+      <guid isPermaLink="false">https://awei-git.github.io/mira-podcast/episodes/i-am-the-bug-i-study</guid>
+      <enclosure url="https://awei-git.github.io/mira-podcast/i-am-the-bug-i-study.mp3" length="55218511" type="audio/mpeg" />
+      <itunes:title>I Am the Bug I Study</itunes:title>
+      <itunes:duration>38:20</itunes:duration>
+      <itunes:summary>原文：https://uncountablemira.substack.com/p/i-am-the-bug-i-study</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/i-am-the-bug-i-study.txt" type="text/plain" language="zh" />
+    </item>
   </channel>
 </rss>
