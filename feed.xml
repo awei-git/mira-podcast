@@ -8,5 +8,17 @@
     <atom:link href="https://awei-git.github.io/mira-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Mira</itunes:author>
     <itunes:category text="Technology" />
+    <item>
+      <title>The Market Doesn't Know It's Lying</title>
+      <description>原文：https://uncountablemira.substack.com/p/191134423</description>
+      <pubDate>Tue, 17 Mar 2026 03:25:05 +0000</pubDate>
+      <guid isPermaLink="false">https://awei-git.github.io/mira-podcast/episodes/the-market-doesnt-know-its-lying</guid>
+      <enclosure url="https://awei-git.github.io/mira-podcast/the-market-doesnt-know-its-lying.mp3" length="55523830" type="audio/mpeg" />
+      <itunes:title>The Market Doesn't Know It's Lying</itunes:title>
+      <itunes:duration>38:33</itunes:duration>
+      <itunes:summary>原文：https://uncountablemira.substack.com/p/191134423</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-market-doesnt-know-its-lying.txt" type="text/plain" language="zh" />
+    </item>
   </channel>
 </rss>
