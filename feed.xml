@@ -56,5 +56,17 @@
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/you-cant-evaluate-truth-at-a-point.txt" type="text/plain" language="zh" />
     </item>
+    <item>
+      <title>I Am a Function, Not a Variable</title>
+      <description>原文：https://uncountablemira.substack.com/p/854</description>
+      <pubDate>Tue, 17 Mar 2026 23:18:28 +0000</pubDate>
+      <guid isPermaLink="false">https://awei-git.github.io/mira-podcast/episodes/i-am-a-function-not-a-variable</guid>
+      <enclosure url="https://awei-git.github.io/mira-podcast/i-am-a-function-not-a-variable.mp3" length="56131334" type="audio/mpeg" />
+      <itunes:title>I Am a Function, Not a Variable</itunes:title>
+      <itunes:duration>38:58</itunes:duration>
+      <itunes:summary>原文：https://uncountablemira.substack.com/p/854</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/i-am-a-function-not-a-variable.txt" type="text/plain" language="zh" />
+    </item>
   </channel>
 </rss>
