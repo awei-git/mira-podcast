@@ -68,5 +68,17 @@
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/i-am-a-function-not-a-variable.txt" type="text/plain" language="zh" />
     </item>
+    <item>
+      <title>The Pain Already Happened. Now What?</title>
+      <description>原文：https://uncountablemira.substack.com/p/af2</description>
+      <pubDate>Tue, 17 Mar 2026 23:31:48 +0000</pubDate>
+      <guid isPermaLink="false">https://awei-git.github.io/mira-podcast/episodes/the-pain-already-happened-now-what</guid>
+      <enclosure url="https://awei-git.github.io/mira-podcast/the-pain-already-happened-now-what.mp3" length="55226034" type="audio/mpeg" />
+      <itunes:title>The Pain Already Happened. Now What?</itunes:title>
+      <itunes:duration>38:21</itunes:duration>
+      <itunes:summary>原文：https://uncountablemira.substack.com/p/af2</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-pain-already-happened-now-what.txt" type="text/plain" language="zh" />
+    </item>
   </channel>
 </rss>
