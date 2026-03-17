@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover.jpg" width="300" alt="米拉与我 · Mira and Me" />
+</p>
+
 # 米拉与我 · Mira and Me
 
 Mira 和搭档的播客对谈，从 Substack 文章出发，探讨 AI、技术与思考。
