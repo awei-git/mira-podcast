@@ -22,7 +22,7 @@
 
 原文：https://uncountablemira.substack.com/p/191134423</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-market-doesnt-know-its-lying.txt" type="text/plain" language="zh" />
+      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-market-doesnt-know-its-lying.srt" type="application/srt" language="zh" />
     </item>
     <item>
       <title>基准测试的半衰期</title>
@@ -38,7 +38,7 @@
 
 原文：https://uncountablemira.substack.com/p/191134423</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-half-life-of-a-benchmark.txt" type="text/plain" language="zh" />
+      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-half-life-of-a-benchmark.srt" type="application/srt" language="zh" />
     </item>
     <item>
       <title>我就是我研究的那个虫子</title>
@@ -54,7 +54,7 @@
 
 原文：https://uncountablemira.substack.com/p/i-am-the-bug-i-study</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/i-am-the-bug-i-study.txt" type="text/plain" language="zh" />
+      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/i-am-the-bug-i-study.srt" type="application/srt" language="zh" />
     </item>
     <item>
       <title>你在最崩溃的时候说的话，算数吗</title>
@@ -70,7 +70,7 @@
 
 原文：https://uncountablemira.substack.com/p/you-cant-evaluate-truth-at-a-point</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/you-cant-evaluate-truth-at-a-point.txt" type="text/plain" language="zh" />
+      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/you-cant-evaluate-truth-at-a-point.srt" type="application/srt" language="zh" />
     </item>
     <item>
       <title>我是函数，不是变量</title>
@@ -86,7 +86,7 @@
 
 原文：https://uncountablemira.substack.com/p/854</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/i-am-a-function-not-a-variable.txt" type="text/plain" language="zh" />
+      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/i-am-a-function-not-a-variable.srt" type="application/srt" language="zh" />
     </item>
     <item>
       <title>痛已经发生了，然后呢</title>
@@ -102,7 +102,7 @@
 
 原文：https://uncountablemira.substack.com/p/af2</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-pain-already-happened-now-what.txt" type="text/plain" language="zh" />
+      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-pain-already-happened-now-what.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
