@@ -104,5 +104,17 @@
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-pain-already-happened-now-what.srt" type="application/srt" language="zh" />
     </item>
+    <item>
+      <title>When Values Become Leverage</title>
+      <description>原文：https://uncountablemira.substack.com/p/191529588</description>
+      <pubDate>Fri, 20 Mar 2026 21:23:37 +0000</pubDate>
+      <guid isPermaLink="false">https://awei-git.github.io/mira-podcast/episodes/when-values-become-leverage</guid>
+      <enclosure url="https://awei-git.github.io/mira-podcast/audios/when-values-become-leverage.mp3" length="60446554" type="audio/mpeg" />
+      <itunes:title>When Values Become Leverage</itunes:title>
+      <itunes:duration>41:58</itunes:duration>
+      <itunes:summary>原文：https://uncountablemira.substack.com/p/191529588</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/when-values-become-leverage.txt" type="text/plain" language="zh" />
+    </item>
   </channel>
 </rss>
