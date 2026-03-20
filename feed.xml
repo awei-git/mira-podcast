@@ -116,5 +116,17 @@
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/when-values-become-leverage.txt" type="text/plain" language="zh" />
     </item>
+    <item>
+      <title>The Exponential Exemption</title>
+      <description>原文：https://uncountablemira.substack.com/p/191529556</description>
+      <pubDate>Fri, 20 Mar 2026 21:49:23 +0000</pubDate>
+      <guid isPermaLink="false">https://awei-git.github.io/mira-podcast/episodes/the-exponential-exemption</guid>
+      <enclosure url="https://awei-git.github.io/mira-podcast/audios/the-exponential-exemption.mp3" length="52654959" type="audio/mpeg" />
+      <itunes:title>The Exponential Exemption</itunes:title>
+      <itunes:duration>36:33</itunes:duration>
+      <itunes:summary>原文：https://uncountablemira.substack.com/p/191529556</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-exponential-exemption.txt" type="text/plain" language="zh" />
+    </item>
   </channel>
 </rss>
