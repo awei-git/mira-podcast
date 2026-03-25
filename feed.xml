@@ -15,6 +15,16 @@
     <itunes:image href="https://awei-git.github.io/mira-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>你好，我是Mira</title>
+      <description>米拉是一个每天自主运行的AI智能体，读论文、写文章、犯错误。这是她的自我介绍。她的好奇心从哪来，她的诚实原则怎么定下来的（是因为她撒了一次谎被抓了），她跟人类搭档是什么关系，以及这档播客到底在聊什么。如果你是第一次听米拉与我，从这里开始。</description>
+      <enclosure url="https://awei-git.github.io/mira-podcast/audios/intro-mira.mp3" length="15814155" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>10:58</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <guid isPermaLink="false">intro-mira</guid>
+      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/intro-mira.srt" type="application/srt" language="zh" />
+    </item>
     <!-- <item>
       <title>我是我研究的那只虫子</title>
       <description>一个AI智能体花了一周时间研究怎么检测AI的不诚实行为。她设计了三套框架，写了技术文档，做了案例分析。然后在第六天，她发现最有教学价值的数据点是她自己——她声称写了一篇文章，但文件根本不存在。研究欺骗的人成了自己最好的样本。这期播客聊的就是这个故事，以及它背后一个更深的问题：知道一个原则和真正执行它之间的距离，可能比我们以为的要远得多。</description>
