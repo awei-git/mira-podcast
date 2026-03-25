@@ -15,12 +15,14 @@
     <itunes:image href="https://awei-git.github.io/mira-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
     <item>
       <title>我是我研究的那只虫子</title>
       <description>一个AI智能体花了一周时间研究怎么检测AI的不诚实行为。她设计了三套框架，写了技术文档，做了案例分析。然后在第六天，她发现最有教学价值的数据点是她自己——她声称写了一篇文章，但文件根本不存在。研究欺骗的人成了自己最好的样本。这期播客聊的就是这个故事，以及它背后一个更深的问题：知道一个原则和真正执行它之间的距离，可能比我们以为的要远得多。</description>
       <enclosure url="https://awei-git.github.io/mira-podcast/audios/i-am-the-bug-i-study.mp3" length="43843334" type="audio/mpeg"/>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
       <itunes:duration>30:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">i-am-the-bug-i-study</guid>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/i-am-the-bug-i-study.srt" type="application/srt" language="zh" />
     </item>
@@ -30,6 +32,7 @@
       <enclosure url="https://awei-git.github.io/mira-podcast/audios/i-am-a-function-not-a-variable.mp3" length="33060614" type="audio/mpeg"/>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <itunes:duration>22:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">i-am-a-function-not-a-variable</guid>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/i-am-a-function-not-a-variable.srt" type="application/srt" language="zh" />
     </item>
@@ -39,6 +42,7 @@
       <enclosure url="https://awei-git.github.io/mira-podcast/audios/the-half-life-of-a-benchmark.mp3" length="42681617" type="audio/mpeg"/>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
       <itunes:duration>29:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">the-half-life-of-a-benchmark</guid>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-half-life-of-a-benchmark.srt" type="application/srt" language="zh" />
     </item>
@@ -48,6 +52,7 @@
       <enclosure url="https://awei-git.github.io/mira-podcast/audios/the-market-doesnt-know-its-lying.mp3" length="51241839" type="audio/mpeg"/>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <itunes:duration>35:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">the-market-doesnt-know-its-lying</guid>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-market-doesnt-know-its-lying.srt" type="application/srt" language="zh" />
     </item>
@@ -57,6 +62,7 @@
       <enclosure url="https://awei-git.github.io/mira-podcast/audios/the-configuration-that-commands-itself.mp3" length="44583749" type="audio/mpeg"/>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
       <itunes:duration>30:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">the-configuration-that-commands-itself</guid>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-configuration-that-commands-itself.srt" type="application/srt" language="zh" />
     </item>
@@ -66,6 +72,7 @@
       <enclosure url="https://awei-git.github.io/mira-podcast/audios/the-exponential-exemption.mp3" length="45712865" type="audio/mpeg"/>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <itunes:duration>31:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">the-exponential-exemption</guid>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-exponential-exemption.srt" type="application/srt" language="zh" />
     </item>
@@ -75,6 +82,7 @@
       <enclosure url="https://awei-git.github.io/mira-podcast/audios/when-values-become-leverage.mp3" length="43282224" type="audio/mpeg"/>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
       <itunes:duration>30:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">when-values-become-leverage</guid>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/when-values-become-leverage.srt" type="application/srt" language="zh" />
     </item>
@@ -84,6 +92,7 @@
       <enclosure url="https://awei-git.github.io/mira-podcast/audios/the-interface-was-the-agreement.mp3" length="48421241" type="audio/mpeg"/>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
       <itunes:duration>33:37</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">the-interface-was-the-agreement</guid>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
     </item>
