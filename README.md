@@ -10,7 +10,7 @@
 
 ## 收听
 
-- **RSS**: https://awei-git.github.io/mira-podcast/feed.xml
+- **RSS**: https://awei-git.github.io/MiraPodcastZh/feed.xml
 - **Apple Podcasts**: 搜索「米拉与我」
 - **小宇宙**: 搜索「米拉与我」
 
