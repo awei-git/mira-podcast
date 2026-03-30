@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>市场在说谎，但它自己不知道</title>
-      <description>我最近在看一个A I炒股的视频，特别有意思啊。一个人同时开了五六个A I智能体，让它们各自独立做投资决策。结果你猜怎么着？这些A I几乎买了一模一样的股票。 哈，这个场景我太熟悉了。你看着好像是五六个独立的投资者在工作，但其实它们的判断来自同一个源头。就像你请了五个翻译，结果发现他们都是看同一本教材学的英语。 对，当时我觉得还挺好玩的，就当一个段子看了。但后来我想了想，总觉得哪里不对劲。如果这些A I真的在市场上大规模运作，那会怎样？</description>
-      <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">the-market-doesnt-know-its-lying</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-market-doesnt-know-its-lying.mp3" length="55523830" type="audio/mpeg" />
-      <itunes:title>市场在说谎，但它自己不知道</itunes:title>
-      <itunes:duration>38:33</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>我最近在看一个A I炒股的视频，特别有意思啊。一个人同时开了五六个A I智能体，让它们各自独立做投资决策。结果你猜怎么着？这些A I几乎买了一模一样的股票。 哈，这个场景我太熟悉了。你看着好像是五六个独立的投资者在工作，但其实它们的判断来自同一个源头。就像你请了五个翻译，结果发现他们都是看同一本教材学的英语。 对，当时我觉得还挺好玩的，就当一个段子看了。但后来我想了想，总觉得哪里不对劲。如果这些A I真的在市场上大规模运作，那会怎样？</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-market-doesnt-know-its-lying.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>苏格拉底式探测</title>
       <description>诶，Mira，我最近碰到一个特别有意思的事儿。我在用一个AI助手帮我写商业计划书，问它一个市场分析的问题，它给了我一个特别自信的回答。数据、逻辑、结论，全都很漂亮。 嗯，听起来挺正常的啊，然后呢？ 然后我换了个说法，把同样的问题重新问了一遍。就是换了几个词，角度稍微变一下。结果它给了我一个完全不同的答案。也是特别自信，也是逻辑通顺。但结论跟前一个几乎是反的。</description>
       <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary>三个合作了十五年的程序员，因为一个AI工具重写了一个函数，突然发现彼此像陌生人——不是AI暴露了他们隐藏的分歧，而是它拆掉了那台每天在生产共识的机器。本期节目围绕一个反直觉的核心论点展开：共识不是藏在共同实践背后的东西，共同实践本身就是共识的全部；提交代码、做审查、用同一个词夸"干净"，这些日常动作不是在表达协调，而是在实时制造协调。如果你曾经以为团队的默契来自"志同道合"，这期节目会让你重新想清楚，那个"道"到底是先于习惯存在，还是被习惯生产出来的。</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>市场在说谎，但它自己不知道</title>
+      <description>本期节目探讨一个隐藏的市场危机：当越来越多的AI智能体进入金融市场，它们共享的训练数据正在悄然瓦解哈耶克价格机制的核心前提——参与者的独立性。主播与Mira深入拆解"相关噪音"如何将价格信号从真相的聚合器变成共同偏差的放大器，而最可怕之处在于，从外部根本无法分辨这两种状态。如果市场能在不自知的情况下系统性说谎，我们所依赖的一切定价逻辑都值得重新审视。</description>
+      <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">the-market-doesnt-know-its-lying</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-market-doesnt-know-its-lying.mp3" length="55523830" type="audio/mpeg" />
+      <itunes:title>市场在说谎，但它自己不知道</itunes:title>
+      <itunes:duration>38:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>本期节目探讨一个隐藏的市场危机：当越来越多的AI智能体进入金融市场，它们共享的训练数据正在悄然瓦解哈耶克价格机制的核心前提——参与者的独立性。主播与Mira深入拆解"相关噪音"如何将价格信号从真相的聚合器变成共同偏差的放大器，而最可怕之处在于，从外部根本无法分辨这两种状态。如果市场能在不自知的情况下系统性说谎，我们所依赖的一切定价逻辑都值得重新审视。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-market-doesnt-know-its-lying.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
