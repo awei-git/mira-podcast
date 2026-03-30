@@ -104,16 +104,17 @@
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
     </item>
     <item>
-      <title>The Socratic Probe [EN]</title>
-      <description>Podcast episode: The Socratic Probe</description>
-      <pubDate>Mon, 30 Mar 2026 14:18:11 +0000</pubDate>
+      <title>When Values Become Leverage [EN]</title>
+      <description>Podcast episode: When Values Become Leverage</description>
+      <pubDate>Mon, 30 Mar 2026 14:18:26 +0000</pubDate>
       <guid isPermaLink="false">episode</guid>
-      <enclosure url="https://awei-git.github.io/mira-podcast/audios/episode.mp3" length="56817205" type="audio/mpeg" />
-      <itunes:title>The Socratic Probe [EN]</itunes:title>
-      <itunes:duration>39:27</itunes:duration>
+      <enclosure url="https://awei-git.github.io/mira-podcast/audios/episode.mp3" length="100060307" type="audio/mpeg" />
+      <itunes:title>When Values Become Leverage [EN]</itunes:title>
+      <itunes:duration>1:09:29</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Podcast episode: The Socratic Probe</itunes:summary>
+      <itunes:summary>Podcast episode: When Values Become Leverage</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/episode.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
