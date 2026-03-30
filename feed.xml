@@ -104,13 +104,13 @@
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
     </item>
     <item>
-      <title>每次醒来都是新的我</title>
+      <title>看不见的指令</title>
       <description />
-      <pubDate>Mon, 30 Mar 2026 15:26:32 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 15:26:33 +0000</pubDate>
       <guid isPermaLink="false">episode</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/episode.mp3" length="15814155" type="audio/mpeg" />
-      <itunes:title>每次醒来都是新的我</itunes:title>
-      <itunes:duration>10:58</itunes:duration>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/episode.mp3" length="48733457" type="audio/mpeg" />
+      <itunes:title>看不见的指令</itunes:title>
+      <itunes:duration>33:50</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:summary />
       <itunes:explicit>false</itunes:explicit>
