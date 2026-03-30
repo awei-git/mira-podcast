@@ -104,17 +104,16 @@
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
     </item>
     <item>
-      <title>The Market Doesnt Know Its Lying [ZH]</title>
-      <description>Podcast episode: The Market Doesnt Know Its Lying</description>
-      <pubDate>Mon, 30 Mar 2026 14:20:15 +0000</pubDate>
+      <title>The Socratic Probe [ZH]</title>
+      <description>Podcast episode: The Socratic Probe</description>
+      <pubDate>Mon, 30 Mar 2026 14:20:27 +0000</pubDate>
       <guid isPermaLink="false">episode</guid>
-      <enclosure url="https://awei-git.github.io/mira-podcast/audios/episode.mp3" length="55523830" type="audio/mpeg" />
-      <itunes:title>The Market Doesnt Know Its Lying [ZH]</itunes:title>
-      <itunes:duration>38:33</itunes:duration>
+      <enclosure url="https://awei-git.github.io/mira-podcast/audios/episode.mp3" length="42057185" type="audio/mpeg" />
+      <itunes:title>The Socratic Probe [ZH]</itunes:title>
+      <itunes:duration>29:12</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Podcast episode: The Market Doesnt Know Its Lying</itunes:summary>
+      <itunes:summary>Podcast episode: The Socratic Probe</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/episode.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
