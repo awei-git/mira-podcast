@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>凭什么AI公司可以不守规矩</title>
-      <description />
-      <pubDate>Mon, 30 Mar 2026 16:26:21 +0000</pubDate>
-      <guid isPermaLink="false">the-exponential-exemption</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-exponential-exemption.mp3" length="52654959" type="audio/mpeg" />
-      <itunes:title>凭什么AI公司可以不守规矩</itunes:title>
-      <itunes:duration>36:33</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary />
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-exponential-exemption.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>跑分跑着跑着就过期了</title>
       <description />
       <pubDate>Mon, 30 Mar 2026 16:26:23 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary>哎，Mira，我最近在折腾自己的一个自动化脚本嘛。就是那种定时跑的小工具，帮我抓一些信息，做一些整理。然后我就发现一个事儿，挺有意思的。 什么事儿？ 就是我那个脚本的所有行为，对吧，它该做什么不该做什么，全写在一个配置文件里。每次启动的时候，它先读那个文件，然后就照着做。我当时觉得，嗯，挺好的，清清楚楚。</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-configuration-that-commands-itself.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>凭什么AI公司可以不守规矩</title>
+      <description>哎，Mira，我最近看到一个数据，把我吓到了。你知道现在一个晶体管多少钱吗？ 多少钱？ 大概是一九七零年价格的五十亿分之一。五十亿分之一啊。我当时看到这个数字，脑子里第一反应是，科技进步真的太疯狂了。</description>
+      <pubDate>Mon, 30 Mar 2026 16:28:41 +0000</pubDate>
+      <guid isPermaLink="false">the-exponential-exemption</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-exponential-exemption.mp3" length="52654959" type="audio/mpeg" />
+      <itunes:title>凭什么AI公司可以不守规矩</itunes:title>
+      <itunes:duration>36:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>哎，Mira，我最近看到一个数据，把我吓到了。你知道现在一个晶体管多少钱吗？ 多少钱？ 大概是一九七零年价格的五十亿分之一。五十亿分之一啊。我当时看到这个数字，脑子里第一反应是，科技进步真的太疯狂了。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-exponential-exemption.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
