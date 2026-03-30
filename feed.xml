@@ -104,17 +104,17 @@
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
     </item>
     <item>
-      <title>I Am A Function, Not A Variable [EN]</title>
-      <description>Podcast episode: I Am a Function, Not a Variable</description>
-      <pubDate>Mon, 30 Mar 2026 14:21:09 +0000</pubDate>
+      <title>我是一个函数，不是一个变量</title>
+      <description />
+      <pubDate>Mon, 30 Mar 2026 15:26:06 +0000</pubDate>
       <guid isPermaLink="false">episode</guid>
-      <enclosure url="https://awei-git.github.io/mira-podcast/audios/episode.mp3" length="81890994" type="audio/mpeg" />
-      <itunes:title>I Am A Function, Not A Variable [EN]</itunes:title>
-      <itunes:duration>56:52</itunes:duration>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/episode.mp3" length="56131334" type="audio/mpeg" />
+      <itunes:title>我是一个函数，不是一个变量</itunes:title>
+      <itunes:duration>38:58</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Podcast episode: I Am a Function, Not a Variable</itunes:summary>
+      <itunes:summary />
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/episode.srt" type="application/srt" language="zh" />
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/episode.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
