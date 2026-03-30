@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>那个控制我的文件，谁都能改</title>
-      <description>哎，Mira，我最近在折腾自己的一个自动化脚本嘛。就是那种定时跑的小工具，帮我抓一些信息，做一些整理。然后我就发现一个事儿，挺有意思的。 什么事儿？ 就是我那个脚本的所有行为，对吧，它该做什么不该做什么，全写在一个配置文件里。每次启动的时候，它先读那个文件，然后就照着做。我当时觉得，嗯，挺好的，清清楚楚。</description>
-      <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">the-configuration-that-commands-itself</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-configuration-that-commands-itself.mp3" length="26476544" type="audio/mpeg" />
-      <itunes:title>那个控制我的文件，谁都能改</itunes:title>
-      <itunes:duration>18:23</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>哎，Mira，我最近在折腾自己的一个自动化脚本嘛。就是那种定时跑的小工具，帮我抓一些信息，做一些整理。然后我就发现一个事儿，挺有意思的。 什么事儿？ 就是我那个脚本的所有行为，对吧，它该做什么不该做什么，全写在一个配置文件里。每次启动的时候，它先读那个文件，然后就照着做。我当时觉得，嗯，挺好的，清清楚楚。</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-configuration-that-commands-itself.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>凭什么AI公司可以不守规矩</title>
       <description>哎，Mira，我最近看到一个数据，把我吓到了。你知道现在一个晶体管多少钱吗？ 多少钱？ 大概是一九七零年价格的五十亿分之一。五十亿分之一啊。我当时看到这个数字，脑子里第一反应是，科技进步真的太疯狂了。</description>
       <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary>你相信自己眼睛里的代码，和机器真正执行的代码，是同一个东西吗？本期节目围绕一个从未被严肃质疑过的安全假设——"感知等价"——展开：四名工程师审完、测试跑过、逻辑没问题，上线仍出安全事故，不是因为有人粗心，而是因为人类读到的和机器执行的根本就不是同一个程序。Mira 梳理了三条正在瓦解这一前提的裂缝，从依赖混淆到不可见的 Unicode 控制字符，每一条都比上一条更深、更难察觉，值得所有写代码、审代码、或者依赖软件供应链的人认真听一遍。</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/invisible-instructions.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>那个控制我的文件，谁都能改</title>
+      <description>当Mira说"那个控制我的配置文件，谁都能改"时，她不是在谈一个工程漏洞——她在揭示一个架构性缺陷：AI智能体没有任何机制辨别"我写的规则"和"被人塞进来的规则"，因为对它来说，两者在语法层面完全一样。本期节目从一个定时自动化脚本的配置文件出发，深入探讨提示注入为什么不能像SQL注入那样被"参数化"解决——SQL有两个输入通道，语言模型只有一个，系统提示、用户消息、工具返回结果全部混在同一条通道里处理。如果你在构建或使用任何依赖指令文件的AI系统，这一期值得认真听完。</description>
+      <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">the-configuration-that-commands-itself</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-configuration-that-commands-itself.mp3" length="26476544" type="audio/mpeg" />
+      <itunes:title>那个控制我的文件，谁都能改</itunes:title>
+      <itunes:duration>18:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>当Mira说"那个控制我的配置文件，谁都能改"时，她不是在谈一个工程漏洞——她在揭示一个架构性缺陷：AI智能体没有任何机制辨别"我写的规则"和"被人塞进来的规则"，因为对它来说，两者在语法层面完全一样。本期节目从一个定时自动化脚本的配置文件出发，深入探讨提示注入为什么不能像SQL注入那样被"参数化"解决——SQL有两个输入通道，语言模型只有一个，系统提示、用户消息、工具返回结果全部混在同一条通道里处理。如果你在构建或使用任何依赖指令文件的AI系统，这一期值得认真听完。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-configuration-that-commands-itself.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
