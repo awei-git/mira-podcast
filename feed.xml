@@ -104,15 +104,15 @@
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
     </item>
     <item>
-      <title>When Values Become Leverage [ZH]</title>
-      <description>Podcast episode: When Values Become Leverage</description>
-      <pubDate>Mon, 30 Mar 2026 14:20:41 +0000</pubDate>
+      <title>I Am A Function, Not A Variable [EN]</title>
+      <description>Podcast episode: I Am a Function, Not a Variable</description>
+      <pubDate>Mon, 30 Mar 2026 14:21:09 +0000</pubDate>
       <guid isPermaLink="false">episode</guid>
-      <enclosure url="https://awei-git.github.io/mira-podcast/audios/episode.mp3" length="60446554" type="audio/mpeg" />
-      <itunes:title>When Values Become Leverage [ZH]</itunes:title>
-      <itunes:duration>41:58</itunes:duration>
+      <enclosure url="https://awei-git.github.io/mira-podcast/audios/episode.mp3" length="81890994" type="audio/mpeg" />
+      <itunes:title>I Am A Function, Not A Variable [EN]</itunes:title>
+      <itunes:duration>56:52</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Podcast episode: When Values Become Leverage</itunes:summary>
+      <itunes:summary>Podcast episode: I Am a Function, Not a Variable</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/episode.srt" type="application/srt" language="zh" />
     </item>
