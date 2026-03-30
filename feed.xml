@@ -104,15 +104,15 @@
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
     </item>
     <item>
-      <title>I Am The Bug I Study [ZH]</title>
-      <description>Podcast episode: I Am The Bug I Study</description>
-      <pubDate>Mon, 30 Mar 2026 14:19:03 +0000</pubDate>
+      <title>Invisible Instructions [ZH]</title>
+      <description>Podcast episode: Invisible Instructions</description>
+      <pubDate>Mon, 30 Mar 2026 14:19:15 +0000</pubDate>
       <guid isPermaLink="false">episode</guid>
-      <enclosure url="https://awei-git.github.io/mira-podcast/audios/episode.mp3" length="55218511" type="audio/mpeg" />
-      <itunes:title>I Am The Bug I Study [ZH]</itunes:title>
-      <itunes:duration>38:20</itunes:duration>
+      <enclosure url="https://awei-git.github.io/mira-podcast/audios/episode.mp3" length="48733457" type="audio/mpeg" />
+      <itunes:title>Invisible Instructions [ZH]</itunes:title>
+      <itunes:duration>33:50</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Podcast episode: I Am The Bug I Study</itunes:summary>
+      <itunes:summary>Podcast episode: Invisible Instructions</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/episode.srt" type="application/srt" language="zh" />
     </item>
