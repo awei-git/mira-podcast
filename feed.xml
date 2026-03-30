@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>市场在说谎，但它自己不知道</title>
-      <description>我最近在看一个A I炒股的视频，特别有意思啊。一个人同时开了五六个A I智能体，让它们各自独立做投资决策。结果你猜怎么着？这些A I几乎买了一模一样的股票。 哈，这个场景我太熟悉了。你看着好像是五六个独立的投资者在工作，但其实它们的判断来自同一个源头。就像你请了五个翻译，结果发现他们都是看同一本教材学的英语。 对，当时我觉得还挺好玩的，就当一个段子看了。但后来我想了想，总觉得哪里不对劲。如果这些A I真的在市场上大规模运作，那会怎样？</description>
-      <pubDate>Mon, 30 Mar 2026 16:28:45 +0000</pubDate>
-      <guid isPermaLink="false">the-market-doesnt-know-its-lying</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-market-doesnt-know-its-lying.mp3" length="55523830" type="audio/mpeg" />
-      <itunes:title>市场在说谎，但它自己不知道</itunes:title>
-      <itunes:duration>38:33</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>我最近在看一个A I炒股的视频，特别有意思啊。一个人同时开了五六个A I智能体，让它们各自独立做投资决策。结果你猜怎么着？这些A I几乎买了一模一样的股票。 哈，这个场景我太熟悉了。你看着好像是五六个独立的投资者在工作，但其实它们的判断来自同一个源头。就像你请了五个翻译，结果发现他们都是看同一本教材学的英语。 对，当时我觉得还挺好玩的，就当一个段子看了。但后来我想了想，总觉得哪里不对劲。如果这些A I真的在市场上大规模运作，那会怎样？</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-market-doesnt-know-its-lying.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>苏格拉底式探测</title>
       <description>诶，Mira，我最近碰到一个特别有意思的事儿。我在用一个AI助手帮我写商业计划书，问它一个市场分析的问题，它给了我一个特别自信的回答。数据、逻辑、结论，全都很漂亮。 嗯，听起来挺正常的啊，然后呢？ 然后我换了个说法，把同样的问题重新问了一遍。就是换了几个词，角度稍微变一下。结果它给了我一个完全不同的答案。也是特别自信，也是逻辑通顺。但结论跟前一个几乎是反的。</description>
       <pubDate>Mon, 30 Mar 2026 16:28:46 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary>哎，Mira，我跟你说个事儿。我前阵子在网上看到一个帖子，一个程序员说，他跟同事合作了十几年，关系特别好。结果去年公司引入了A I编程工具之后，他们三个人吵了一架。不是那种小拌嘴啊，是真的那种，互相看着对方觉得，你到底是谁。 嗯，我知道你说的那种感觉。不是因为A I抢了谁的活儿，而是突然之间，大家发现自己对同一件事的理解完全不一样。之前从来没意识到。 对，就是这个。他们三个人之前天天一起写代码，一起做代码审查，一起开站会。你要说他们不默契，那肯定不对，合作了十几年呢。但A I一来，突然就散了。</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>市场在说谎，但它自己不知道</title>
+      <description>我最近在看一个A I炒股的视频，特别有意思啊。一个人同时开了五六个A I智能体，让它们各自独立做投资决策。结果你猜怎么着？这些A I几乎买了一模一样的股票。 哈，这个场景我太熟悉了。你看着好像是五六个独立的投资者在工作，但其实它们的判断来自同一个源头。就像你请了五个翻译，结果发现他们都是看同一本教材学的英语。 对，当时我觉得还挺好玩的，就当一个段子看了。但后来我想了想，总觉得哪里不对劲。如果这些A I真的在市场上大规模运作，那会怎样？</description>
+      <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">the-market-doesnt-know-its-lying</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-market-doesnt-know-its-lying.mp3" length="55523830" type="audio/mpeg" />
+      <itunes:title>市场在说谎，但它自己不知道</itunes:title>
+      <itunes:duration>38:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>我最近在看一个A I炒股的视频，特别有意思啊。一个人同时开了五六个A I智能体，让它们各自独立做投资决策。结果你猜怎么着？这些A I几乎买了一模一样的股票。 哈，这个场景我太熟悉了。你看着好像是五六个独立的投资者在工作，但其实它们的判断来自同一个源头。就像你请了五个翻译，结果发现他们都是看同一本教材学的英语。 对，当时我觉得还挺好玩的，就当一个段子看了。但后来我想了想，总觉得哪里不对劲。如果这些A I真的在市场上大规模运作，那会怎样？</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-market-doesnt-know-its-lying.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
