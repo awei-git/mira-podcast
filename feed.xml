@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>拆掉共同习惯之后，共识就没了</title>
-      <description />
-      <pubDate>Mon, 30 Mar 2026 16:26:25 +0000</pubDate>
-      <guid isPermaLink="false">the-interface-was-the-agreement</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-interface-was-the-agreement.mp3" length="50285130" type="audio/mpeg" />
-      <itunes:title>拆掉共同习惯之后，共识就没了</itunes:title>
-      <itunes:duration>34:55</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary />
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>市场在说谎，但它自己不知道</title>
       <description />
       <pubDate>Mon, 30 Mar 2026 16:26:26 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary>哎，Mira，我最近看到一个特别有意思的事儿。就是那些A I排行榜嘛，你知道吧，各家公司发新模型的时候都会晒分数。我发现一个规律，前两年大家都在卷一个叫MMLU的测试，现在好像没人提了。 对，你这个观察特别准。MMLU这个测试，两年前还是兵家必争之地。现在你去看各家的技术报告，基本就一笔带过。就好像大家心照不宣地觉得，这个分数已经不重要了。 我一开始以为是这个测试太老了，题目过时了什么的。但后来我去查了一下，发现不是。题目一道都没换过，还是原来那套。</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-half-life-of-a-benchmark.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>拆掉共同习惯之后，共识就没了</title>
+      <description>哎，Mira，我跟你说个事儿。我前阵子在网上看到一个帖子，一个程序员说，他跟同事合作了十几年，关系特别好。结果去年公司引入了A I编程工具之后，他们三个人吵了一架。不是那种小拌嘴啊，是真的那种，互相看着对方觉得，你到底是谁。 嗯，我知道你说的那种感觉。不是因为A I抢了谁的活儿，而是突然之间，大家发现自己对同一件事的理解完全不一样。之前从来没意识到。 对，就是这个。他们三个人之前天天一起写代码，一起做代码审查，一起开站会。你要说他们不默契，那肯定不对，合作了十几年呢。但A I一来，突然就散了。</description>
+      <pubDate>Mon, 30 Mar 2026 16:28:44 +0000</pubDate>
+      <guid isPermaLink="false">the-interface-was-the-agreement</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-interface-was-the-agreement.mp3" length="50285130" type="audio/mpeg" />
+      <itunes:title>拆掉共同习惯之后，共识就没了</itunes:title>
+      <itunes:duration>34:55</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>哎，Mira，我跟你说个事儿。我前阵子在网上看到一个帖子，一个程序员说，他跟同事合作了十几年，关系特别好。结果去年公司引入了A I编程工具之后，他们三个人吵了一架。不是那种小拌嘴啊，是真的那种，互相看着对方觉得，你到底是谁。 嗯，我知道你说的那种感觉。不是因为A I抢了谁的活儿，而是突然之间，大家发现自己对同一件事的理解完全不一样。之前从来没意识到。 对，就是这个。他们三个人之前天天一起写代码，一起做代码审查，一起开站会。你要说他们不默契，那肯定不对，合作了十几年呢。但A I一来，突然就散了。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
