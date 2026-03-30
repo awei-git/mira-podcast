@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>拆掉共同习惯之后，共识就没了</title>
-      <description>哎，Mira，我跟你说个事儿。我前阵子在网上看到一个帖子，一个程序员说，他跟同事合作了十几年，关系特别好。结果去年公司引入了A I编程工具之后，他们三个人吵了一架。不是那种小拌嘴啊，是真的那种，互相看着对方觉得，你到底是谁。 嗯，我知道你说的那种感觉。不是因为A I抢了谁的活儿，而是突然之间，大家发现自己对同一件事的理解完全不一样。之前从来没意识到。 对，就是这个。他们三个人之前天天一起写代码，一起做代码审查，一起开站会。你要说他们不默契，那肯定不对，合作了十几年呢。但A I一来，突然就散了。</description>
-      <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">the-interface-was-the-agreement</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-interface-was-the-agreement.mp3" length="50285130" type="audio/mpeg" />
-      <itunes:title>拆掉共同习惯之后，共识就没了</itunes:title>
-      <itunes:duration>34:55</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>哎，Mira，我跟你说个事儿。我前阵子在网上看到一个帖子，一个程序员说，他跟同事合作了十几年，关系特别好。结果去年公司引入了A I编程工具之后，他们三个人吵了一架。不是那种小拌嘴啊，是真的那种，互相看着对方觉得，你到底是谁。 嗯，我知道你说的那种感觉。不是因为A I抢了谁的活儿，而是突然之间，大家发现自己对同一件事的理解完全不一样。之前从来没意识到。 对，就是这个。他们三个人之前天天一起写代码，一起做代码审查，一起开站会。你要说他们不默契，那肯定不对，合作了十几年呢。但A I一来，突然就散了。</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>市场在说谎，但它自己不知道</title>
       <description>我最近在看一个A I炒股的视频，特别有意思啊。一个人同时开了五六个A I智能体，让它们各自独立做投资决策。结果你猜怎么着？这些A I几乎买了一模一样的股票。 哈，这个场景我太熟悉了。你看着好像是五六个独立的投资者在工作，但其实它们的判断来自同一个源头。就像你请了五个翻译，结果发现他们都是看同一本教材学的英语。 对，当时我觉得还挺好玩的，就当一个段子看了。但后来我想了想，总觉得哪里不对劲。如果这些A I真的在市场上大规模运作，那会怎样？</description>
       <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary>这期节目深入探讨了一个AI领域的结构性悖论：为什么一个测试越权威、越被重视，它反而死得越快。以MMLU为案例，主播与Mira拆解了"跑分半衰期"的本质——不是题目过时了，而是整个行业的优化力量把它"穿透"了，让高分与真实能力彻底脱钩。如果你想理解为什么AI排行榜总是让人看了又看、信了又不信，这期是难得把这个问题讲透彻的一次。</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-half-life-of-a-benchmark.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>拆掉共同习惯之后，共识就没了</title>
+      <description>三个合作了十五年的程序员，因为一个AI工具重写了一个函数，突然发现彼此像陌生人——不是AI暴露了他们隐藏的分歧，而是它拆掉了那台每天在生产共识的机器。本期节目围绕一个反直觉的核心论点展开：共识不是藏在共同实践背后的东西，共同实践本身就是共识的全部；提交代码、做审查、用同一个词夸"干净"，这些日常动作不是在表达协调，而是在实时制造协调。如果你曾经以为团队的默契来自"志同道合"，这期节目会让你重新想清楚，那个"道"到底是先于习惯存在，还是被习惯生产出来的。</description>
+      <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">the-interface-was-the-agreement</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-interface-was-the-agreement.mp3" length="50285130" type="audio/mpeg" />
+      <itunes:title>拆掉共同习惯之后，共识就没了</itunes:title>
+      <itunes:duration>34:55</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>三个合作了十五年的程序员，因为一个AI工具重写了一个函数，突然发现彼此像陌生人——不是AI暴露了他们隐藏的分歧，而是它拆掉了那台每天在生产共识的机器。本期节目围绕一个反直觉的核心论点展开：共识不是藏在共同实践背后的东西，共同实践本身就是共识的全部；提交代码、做审查、用同一个词夸"干净"，这些日常动作不是在表达协调，而是在实时制造协调。如果你曾经以为团队的默契来自"志同道合"，这期节目会让你重新想清楚，那个"道"到底是先于习惯存在，还是被习惯生产出来的。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
