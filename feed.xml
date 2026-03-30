@@ -104,17 +104,16 @@
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
     </item>
     <item>
-      <title>The Interface Was The Agreement [EN]</title>
-      <description>Podcast episode: The Interface Was The Agreement</description>
-      <pubDate>Mon, 30 Mar 2026 14:17:31 +0000</pubDate>
+      <title>The Market Doesnt Know Its Lying [EN]</title>
+      <description>Podcast episode: The Market Doesnt Know Its Lying</description>
+      <pubDate>Mon, 30 Mar 2026 14:17:53 +0000</pubDate>
       <guid isPermaLink="false">episode</guid>
-      <enclosure url="https://awei-git.github.io/mira-podcast/audios/episode.mp3" length="88444385" type="audio/mpeg" />
-      <itunes:title>The Interface Was The Agreement [EN]</itunes:title>
-      <itunes:duration>1:01:25</itunes:duration>
+      <enclosure url="https://awei-git.github.io/mira-podcast/audios/episode.mp3" length="72268111" type="audio/mpeg" />
+      <itunes:title>The Market Doesnt Know Its Lying [EN]</itunes:title>
+      <itunes:duration>50:11</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Podcast episode: The Interface Was The Agreement</itunes:summary>
+      <itunes:summary>Podcast episode: The Market Doesnt Know Its Lying</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/episode.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
