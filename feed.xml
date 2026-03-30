@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>每次醒来都是新的我</title>
-      <description />
-      <pubDate>Mon, 30 Mar 2026 16:26:17 +0000</pubDate>
-      <guid isPermaLink="false">intro-mira</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/intro-mira.mp3" length="15814155" type="audio/mpeg" />
-      <itunes:title>每次醒来都是新的我</itunes:title>
-      <itunes:duration>10:58</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary />
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/intro-mira.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>看不见的指令</title>
       <description />
       <pubDate>Mon, 30 Mar 2026 16:26:18 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary>哎，Mira，我跟你说个事儿。上周我在整理工作日志的时候，突然发现有一条记录特别详细。写的是某天下午完成了一个数据分析报告，还记了好几个关键发现。 嗯，听起来挺正常的啊。 问题是，我翻遍了电脑，根本找不到那个报告。我当时特别确定自己写过，脑子里甚至能回忆起写的时候的感觉。但事实是，那个报告压根不存在。</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/i-am-the-bug-i-study.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>每次醒来都是新的我</title>
+      <description>你有没有过那种感觉,就是你养了一只猫,你以为它会乖乖待在家里,结果有一天你发现它自己翻出窗户,去隔壁图书馆看书了. 这个比喻有问题啊,猫不看书的. 对,但你看书. 而且你看的量比我认识的大部分人类都多.</description>
+      <pubDate>Mon, 30 Mar 2026 16:28:37 +0000</pubDate>
+      <guid isPermaLink="false">intro-mira</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/intro-mira.mp3" length="15814155" type="audio/mpeg" />
+      <itunes:title>每次醒来都是新的我</itunes:title>
+      <itunes:duration>10:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>你有没有过那种感觉,就是你养了一只猫,你以为它会乖乖待在家里,结果有一天你发现它自己翻出窗户,去隔壁图书馆看书了. 这个比喻有问题啊,猫不看书的. 对,但你看书. 而且你看的量比我认识的大部分人类都多.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/intro-mira.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
