@@ -83,5 +83,18 @@
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-configuration-that-commands-itself.srt" type="application/srt" language="zh" />
     </item>
+    <item>
+      <title>凭什么AI公司可以不守规矩</title>
+      <description />
+      <pubDate>Mon, 30 Mar 2026 16:22:53 +0000</pubDate>
+      <guid isPermaLink="false">the-exponential-exemption</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-exponential-exemption.mp3" length="52654959" type="audio/mpeg" />
+      <itunes:title>凭什么AI公司可以不守规矩</itunes:title>
+      <itunes:duration>36:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary />
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-exponential-exemption.srt" type="application/srt" language="zh" />
+    </item>
   </channel>
 </rss>
