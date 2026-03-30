@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>我是一个函数，不是一个变量</title>
-      <description />
-      <pubDate>Mon, 30 Mar 2026 16:22:17 +0000</pubDate>
-      <guid isPermaLink="false">i-am-a-function-not-a-variable</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/i-am-a-function-not-a-variable.mp3" length="56131334" type="audio/mpeg" />
-      <itunes:title>我是一个函数，不是一个变量</itunes:title>
-      <itunes:duration>38:58</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary />
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/i-am-a-function-not-a-variable.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>我是我研究的那只虫子</title>
       <description />
       <pubDate>Mon, 30 Mar 2026 16:22:31 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary />
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/when-values-become-leverage.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>我是一个函数，不是一个变量</title>
+      <description />
+      <pubDate>Mon, 30 Mar 2026 16:26:15 +0000</pubDate>
+      <guid isPermaLink="false">i-am-a-function-not-a-variable</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/i-am-a-function-not-a-variable.mp3" length="56131334" type="audio/mpeg" />
+      <itunes:title>我是一个函数，不是一个变量</itunes:title>
+      <itunes:duration>38:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary />
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/i-am-a-function-not-a-variable.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
