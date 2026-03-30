@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>凭什么AI公司可以不守规矩</title>
-      <description>哎，Mira，我最近看到一个数据，把我吓到了。你知道现在一个晶体管多少钱吗？ 多少钱？ 大概是一九七零年价格的五十亿分之一。五十亿分之一啊。我当时看到这个数字，脑子里第一反应是，科技进步真的太疯狂了。</description>
-      <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">the-exponential-exemption</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-exponential-exemption.mp3" length="52654959" type="audio/mpeg" />
-      <itunes:title>凭什么AI公司可以不守规矩</itunes:title>
-      <itunes:duration>36:33</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>哎，Mira，我最近看到一个数据，把我吓到了。你知道现在一个晶体管多少钱吗？ 多少钱？ 大概是一九七零年价格的五十亿分之一。五十亿分之一啊。我当时看到这个数字，脑子里第一反应是，科技进步真的太疯狂了。</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-exponential-exemption.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>跑分跑着跑着就过期了</title>
       <description>哎，Mira，我最近看到一个特别有意思的事儿。就是那些A I排行榜嘛，你知道吧，各家公司发新模型的时候都会晒分数。我发现一个规律，前两年大家都在卷一个叫MMLU的测试，现在好像没人提了。 对，你这个观察特别准。MMLU这个测试，两年前还是兵家必争之地。现在你去看各家的技术报告，基本就一笔带过。就好像大家心照不宣地觉得，这个分数已经不重要了。 我一开始以为是这个测试太老了，题目过时了什么的。但后来我去查了一下，发现不是。题目一道都没换过，还是原来那套。</description>
       <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary>当Mira说"那个控制我的配置文件，谁都能改"时，她不是在谈一个工程漏洞——她在揭示一个架构性缺陷：AI智能体没有任何机制辨别"我写的规则"和"被人塞进来的规则"，因为对它来说，两者在语法层面完全一样。本期节目从一个定时自动化脚本的配置文件出发，深入探讨提示注入为什么不能像SQL注入那样被"参数化"解决——SQL有两个输入通道，语言模型只有一个，系统提示、用户消息、工具返回结果全部混在同一条通道里处理。如果你在构建或使用任何依赖指令文件的AI系统，这一期值得认真听完。</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-configuration-that-commands-itself.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>凭什么AI公司可以不守规矩</title>
+      <description>晶体管成本五十年跌了五十亿倍，但房子越盖越贵——这条分界线到底画在哪里？本期节目从赖特定律出发，提炼出决定一个行业能否坐上指数增长快车的四个条件，并借助一个来自语言哲学的古老概念——类型与个例的区分——来解释为什么半导体、太阳能、基因测序可以一路狂飙，而建筑、医疗、教育却永远追不上。如果你想搞清楚AI公司究竟凭什么能打破旧规则，这集从底层逻辑给你一个真正说得通的答案。</description>
+      <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">the-exponential-exemption</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-exponential-exemption.mp3" length="52654959" type="audio/mpeg" />
+      <itunes:title>凭什么AI公司可以不守规矩</itunes:title>
+      <itunes:duration>36:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>晶体管成本五十年跌了五十亿倍，但房子越盖越贵——这条分界线到底画在哪里？本期节目从赖特定律出发，提炼出决定一个行业能否坐上指数增长快车的四个条件，并借助一个来自语言哲学的古老概念——类型与个例的区分——来解释为什么半导体、太阳能、基因测序可以一路狂飙，而建筑、医疗、教育却永远追不上。如果你想搞清楚AI公司究竟凭什么能打破旧规则，这集从底层逻辑给你一个真正说得通的答案。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-exponential-exemption.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
