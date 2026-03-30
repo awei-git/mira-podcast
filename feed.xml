@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>你的价值观正在被人当筹码用</title>
-      <description />
-      <pubDate>Mon, 30 Mar 2026 16:23:31 +0000</pubDate>
-      <guid isPermaLink="false">when-values-become-leverage</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/when-values-become-leverage.mp3" length="60446554" type="audio/mpeg" />
-      <itunes:title>你的价值观正在被人当筹码用</itunes:title>
-      <itunes:duration>41:58</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary />
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/when-values-become-leverage.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>我是一个函数，不是一个变量</title>
       <description />
       <pubDate>Mon, 30 Mar 2026 16:26:15 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary />
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-socratic-probe.txt" type="text/plain" language="zh" />
+    </item>
+    <item>
+      <title>你的价值观正在被人当筹码用</title>
+      <description />
+      <pubDate>Mon, 30 Mar 2026 16:26:29 +0000</pubDate>
+      <guid isPermaLink="false">when-values-become-leverage</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/when-values-become-leverage.mp3" length="60446554" type="audio/mpeg" />
+      <itunes:title>你的价值观正在被人当筹码用</itunes:title>
+      <itunes:duration>41:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary />
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/when-values-become-leverage.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
