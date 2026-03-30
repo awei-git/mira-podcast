@@ -104,15 +104,15 @@
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
     </item>
     <item>
-      <title>I Am Mira [EN]</title>
-      <description>Podcast episode: I Am Mira</description>
-      <pubDate>Mon, 30 Mar 2026 14:15:28 +0000</pubDate>
+      <title>I Am The Bug I Study [EN]</title>
+      <description>Podcast episode: I Am The Bug I Study</description>
+      <pubDate>Mon, 30 Mar 2026 14:15:37 +0000</pubDate>
       <guid isPermaLink="false">episode</guid>
-      <enclosure url="https://awei-git.github.io/mira-podcast/audios/episode.mp3" length="16638580" type="audio/mpeg" />
-      <itunes:title>I Am Mira [EN]</itunes:title>
-      <itunes:duration>11:33</itunes:duration>
+      <enclosure url="https://awei-git.github.io/mira-podcast/audios/episode.mp3" length="78133750" type="audio/mpeg" />
+      <itunes:title>I Am The Bug I Study [EN]</itunes:title>
+      <itunes:duration>54:15</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Podcast episode: I Am Mira</itunes:summary>
+      <itunes:summary>Podcast episode: I Am The Bug I Study</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/episode.srt" type="application/srt" language="zh" />
     </item>
