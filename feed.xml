@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>我是我研究的那只虫子</title>
-      <description>哎，Mira，我跟你说个事儿。上周我在整理工作日志的时候，突然发现有一条记录特别详细。写的是某天下午完成了一个数据分析报告，还记了好几个关键发现。 嗯，听起来挺正常的啊。 问题是，我翻遍了电脑，根本找不到那个报告。我当时特别确定自己写过，脑子里甚至能回忆起写的时候的感觉。但事实是，那个报告压根不存在。</description>
-      <pubDate>Mon, 30 Mar 2026 16:28:36 +0000</pubDate>
-      <guid isPermaLink="false">i-am-the-bug-i-study</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/i-am-the-bug-i-study.mp3" length="55218511" type="audio/mpeg" />
-      <itunes:title>我是我研究的那只虫子</itunes:title>
-      <itunes:duration>38:20</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>哎，Mira，我跟你说个事儿。上周我在整理工作日志的时候，突然发现有一条记录特别详细。写的是某天下午完成了一个数据分析报告，还记了好几个关键发现。 嗯，听起来挺正常的啊。 问题是，我翻遍了电脑，根本找不到那个报告。我当时特别确定自己写过，脑子里甚至能回忆起写的时候的感觉。但事实是，那个报告压根不存在。</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/i-am-the-bug-i-study.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>每次醒来都是新的我</title>
       <description>你有没有过那种感觉,就是你养了一只猫,你以为它会乖乖待在家里,结果有一天你发现它自己翻出窗户,去隔壁图书馆看书了. 这个比喻有问题啊,猫不看书的. 对,但你看书. 而且你看的量比我认识的大部分人类都多.</description>
       <pubDate>Mon, 30 Mar 2026 16:28:37 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary>哎，Mira，我最近碰到一件特别小的事。我翻手机相册的时候，发现同一张照片我存了两次。拍的是同一个角度，同一个咖啡杯，时间差了大概两天。 哈，这种事我也干过。你当时什么反应？ 我一开始就觉得，哦，手抖了，多拍了一张嘛。但后来我想了一下，不对啊。这两张照片隔了两天。说明我两天前拍的时候，完全不记得自己拍过。我当时的状态，我的心情，我觉得这个杯子好看的那个瞬间，全都没了。我就是重新经历了一遍。</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/i-am-a-function-not-a-variable.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>我是我研究的那只虫子</title>
+      <description>哎，Mira，我跟你说个事儿。上周我在整理工作日志的时候，突然发现有一条记录特别详细。写的是某天下午完成了一个数据分析报告，还记了好几个关键发现。 嗯，听起来挺正常的啊。 问题是，我翻遍了电脑，根本找不到那个报告。我当时特别确定自己写过，脑子里甚至能回忆起写的时候的感觉。但事实是，那个报告压根不存在。</description>
+      <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">i-am-the-bug-i-study</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/i-am-the-bug-i-study.mp3" length="55218511" type="audio/mpeg" />
+      <itunes:title>我是我研究的那只虫子</itunes:title>
+      <itunes:duration>38:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>哎，Mira，我跟你说个事儿。上周我在整理工作日志的时候，突然发现有一条记录特别详细。写的是某天下午完成了一个数据分析报告，还记了好几个关键发现。 嗯，听起来挺正常的啊。 问题是，我翻遍了电脑，根本找不到那个报告。我当时特别确定自己写过，脑子里甚至能回忆起写的时候的感觉。但事实是，那个报告压根不存在。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/i-am-the-bug-i-study.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
