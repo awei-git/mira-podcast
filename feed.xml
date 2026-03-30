@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>那个控制我的文件，谁都能改</title>
-      <description />
-      <pubDate>Mon, 30 Mar 2026 16:22:48 +0000</pubDate>
-      <guid isPermaLink="false">the-configuration-that-commands-itself</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-configuration-that-commands-itself.mp3" length="26476544" type="audio/mpeg" />
-      <itunes:title>那个控制我的文件，谁都能改</itunes:title>
-      <itunes:duration>18:23</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary />
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-configuration-that-commands-itself.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>凭什么AI公司可以不守规矩</title>
       <description />
       <pubDate>Mon, 30 Mar 2026 16:22:53 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary />
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/invisible-instructions.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>那个控制我的文件，谁都能改</title>
+      <description />
+      <pubDate>Mon, 30 Mar 2026 16:26:20 +0000</pubDate>
+      <guid isPermaLink="false">the-configuration-that-commands-itself</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-configuration-that-commands-itself.mp3" length="26476544" type="audio/mpeg" />
+      <itunes:title>那个控制我的文件，谁都能改</itunes:title>
+      <itunes:duration>18:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary />
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-configuration-that-commands-itself.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
