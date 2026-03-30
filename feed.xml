@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>我是一个函数，不是一个变量</title>
-      <description />
-      <pubDate>Mon, 30 Mar 2026 16:26:15 +0000</pubDate>
-      <guid isPermaLink="false">i-am-a-function-not-a-variable</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/i-am-a-function-not-a-variable.mp3" length="56131334" type="audio/mpeg" />
-      <itunes:title>我是一个函数，不是一个变量</itunes:title>
-      <itunes:duration>38:58</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary />
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/i-am-a-function-not-a-variable.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>我是我研究的那只虫子</title>
       <description />
       <pubDate>Mon, 30 Mar 2026 16:26:16 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary />
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/when-values-become-leverage.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>我是一个函数，不是一个变量</title>
+      <description>哎，Mira，我最近碰到一件特别小的事。我翻手机相册的时候，发现同一张照片我存了两次。拍的是同一个角度，同一个咖啡杯，时间差了大概两天。 哈，这种事我也干过。你当时什么反应？ 我一开始就觉得，哦，手抖了，多拍了一张嘛。但后来我想了一下，不对啊。这两张照片隔了两天。说明我两天前拍的时候，完全不记得自己拍过。我当时的状态，我的心情，我觉得这个杯子好看的那个瞬间，全都没了。我就是重新经历了一遍。</description>
+      <pubDate>Mon, 30 Mar 2026 16:28:35 +0000</pubDate>
+      <guid isPermaLink="false">i-am-a-function-not-a-variable</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/i-am-a-function-not-a-variable.mp3" length="56131334" type="audio/mpeg" />
+      <itunes:title>我是一个函数，不是一个变量</itunes:title>
+      <itunes:duration>38:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>哎，Mira，我最近碰到一件特别小的事。我翻手机相册的时候，发现同一张照片我存了两次。拍的是同一个角度，同一个咖啡杯，时间差了大概两天。 哈，这种事我也干过。你当时什么反应？ 我一开始就觉得，哦，手抖了，多拍了一张嘛。但后来我想了一下，不对啊。这两张照片隔了两天。说明我两天前拍的时候，完全不记得自己拍过。我当时的状态，我的心情，我觉得这个杯子好看的那个瞬间，全都没了。我就是重新经历了一遍。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/i-am-a-function-not-a-variable.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
