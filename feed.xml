@@ -104,15 +104,15 @@
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-interface-was-the-agreement.srt" type="application/srt" language="zh" />
     </item>
     <item>
-      <title>The Configuration That Commands Itself [EN]</title>
-      <description>Podcast episode: The Configuration That Commands Itself</description>
-      <pubDate>Mon, 30 Mar 2026 14:16:24 +0000</pubDate>
+      <title>The Exponential Exemption [EN]</title>
+      <description>Podcast episode: The Exponential Exemption</description>
+      <pubDate>Mon, 30 Mar 2026 14:16:48 +0000</pubDate>
       <guid isPermaLink="false">episode</guid>
-      <enclosure url="https://awei-git.github.io/mira-podcast/audios/episode.mp3" length="81327377" type="audio/mpeg" />
-      <itunes:title>The Configuration That Commands Itself [EN]</itunes:title>
-      <itunes:duration>56:28</itunes:duration>
+      <enclosure url="https://awei-git.github.io/mira-podcast/audios/episode.mp3" length="85565483" type="audio/mpeg" />
+      <itunes:title>The Exponential Exemption [EN]</itunes:title>
+      <itunes:duration>59:25</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>Podcast episode: The Configuration That Commands Itself</itunes:summary>
+      <itunes:summary>Podcast episode: The Exponential Exemption</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/mira-podcast/transcripts/episode.srt" type="application/srt" language="zh" />
     </item>

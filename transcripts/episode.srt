@@ -1,551 +1,623 @@
 1
-00:00:15,000 --> 00:00:29,800
-[HOST]: Hey, Mira, I've been tinkering with one of my automation scripts recently. You know, those little tools that run on a schedule, help me grab some information and organize things. And then I noticed something quite interesting.
+00:00:15,000 --> 00:00:23,800
+[HOST]: Hey, Mira, I recently saw a statistic that absolutely stunned me. Do you know how much a single transistor costs these days?
 
 2
-00:00:29,800 --> 00:00:31,800
-[MIRA]: Hmm, What is it?
+00:00:23,800 --> 00:00:25,800
+[MIRA]: Hmm, How much?
 
 3
-00:00:31,800 --> 00:00:51,400
-[HOST]: It's that all the actions of my script, right, what it should and shouldn't do, are all written in a configuration file. Every time it starts, it first reads that file, and then it just follows those instructions. At the time, I thought, Hmm, that's pretty good, very clear.
+00:00:25,800 --> 00:00:45,000
+[HOST]: It's roughly one five-billionth of what it cost back in 1970. One five-billionth! When I first saw that number, my immediate thought was, Wow, technological progress is truly insane. It's almost incomprehensible, isn't it? To think that something so fundamental to modern electronics has become so incredibly cheap.
 
 4
-00:00:51,400 --> 00:01:19,000
-[MIRA]: Yes, that design is actually very common. Many A I agent systems do it this way. My own system is like this, too. There's a file, similar to a constitution, that dictates what I can do, what I cannot do, what tools I should use, and in what order. Every thirty seconds it activates, and the first thing it does is read that file, and then it follows it.
+00:00:45,000 --> 00:01:15,400
+[MIRA]: Yes, the cost reduction curve for semiconductors is arguably one of the most remarkable stories in human industrial history. We're talking about performance doubling every year or two, while the cost simultaneously plummets. When you encounter a figure like that, it's natural to feel a sense of awe, to think, This is the sheer power of exponential growth in action. It's a testament to sustained innovation, relentless engineering, and the compounding effects of learning and scale.
 
 5
-00:01:19,000 --> 00:01:26,599
-[HOST]: Yes, yes, exactly that feeling. But then one day, it suddenly occurred to me, Anyone can change this file.
+00:01:15,400 --> 00:01:45,800
+[HOST]: Absolutely, that's exactly what I thought. But then, almost immediately, I stumbled upon another statistic that completely threw me off. The inflation-adjusted cost per square foot of residential construction in the United States is more expensive now than it was fifty years ago. More expensive! That just felt fundamentally wrong to me. How can two such critical areas of human endeavor move in such diametrically opposed directions? It's like living in two different economic realities simultaneously.
 
 6
-00:01:26,599 --> 00:01:31,399
-[MIRA]: Your intuition is correct. And the problem is deeper than you think.
+00:01:45,800 --> 00:04:14,050
+[MIRA]: Hmm, you've zeroed in on an absolutely critical comparison. We have two distinct industries, both attracting enormous amounts of capital and some of the brightest minds. Yet, one has seen its costs drop by a factor of hundreds of thousands, if not millions, while the other has actually seen its costs increase. This isn't just a slight difference in decimal points， these are two trends moving in entirely opposite directions, signaling a deeper, more fundamental divergence in their underlying economic dynamics. It challenges many of our intuitive assumptions about progress and efficiency.
 
 7
-00:01:31,399 --> 00:01:33,399
-[HOST]: Hmm, How so?
+00:04:14,050 --> 00:06:46,800
+[HOST]: And it's not like we haven't been trying to make building more efficient, right? I mean, we've had prefabricated housing concepts for over a century now. New techniques, new materials ， they're constantly being developed and introduced. Japan, for instance, has embraced architectural deregulation more thoroughly than almost any other Western nation, explicitly trying to lower housing costs and stimulate innovation. And what's been the result? Costs are still going up. It's baffling. It makes you question whether our efforts are even pointed in the right direction, or if there's some unseen force at play.
 
 8
-00:01:33,399 --> 00:02:03,799
-[MIRA]: Think about it. If someone, or any program, can write to that directory, they can swap out the rules. No sophisticated hacking techniques needed. A corrupted data source, a malicious tool output, even a symbolic link, can replace the original rules file. And then what will the A I agent do? It will execute the new rules with the exact same attitude. It has no mechanism whatsoever to detect that the rules have been tampered with.
+00:06:46,800 --> 00:07:36,000
+[MIRA]: Precisely. And this is exactly why I find the conventional explanations insufficient. If you ask most people why building a house is becoming more expensive, they'll typically cite factors like excessive regulation, the Not In My Back Yard phenomenon, escalating labor costs, or perhaps insufficient investment in research and development. And it's true, these factors do exist, and they do contribute to cost. But the problem is, even if you systematically address every single one of those issues, the fundamental cost curve for housing still doesn't bend significantly downwards. Japan's experience, with its aggressive deregulation and innovative approaches, serves as a powerful, real-world proof point for this argument. It shows that these common explanations, while valid in isolation, don't capture the entire picture.
 
 9
-00:02:03,799 --> 00:02:12,599
-[HOST]: Wait, you mean it won't feel like anything is wrong? So, no matter how the rules change, it executes them all equally?
+00:07:36,000 --> 00:07:50,000
+[HOST]: Wait, let me just process that for a moment. So, you're implying that this isn't just an isolated issue affecting a specific industry or two? This isn't just about the idiosyncrasies of construction or healthcare?
 
 10
-00:02:12,599 --> 00:02:33,000
-[MIRA]: Exactly. To it, the old rules and the new rules look identical. They're all text, all instructions, all processed in the same way. It has no ability to distinguish which ones I wrote and which ones someone else slipped in. This isn't a bug. This is how the architecture itself operates.
+00:07:50,000 --> 00:10:43,250
+[MIRA]: Correct. This is not an individual industry's isolated problem. This represents a fundamental, structural dividing line running through the economy. Some industries are inherently positioned to capture and ride the wave of exponential cost reduction, while others, by their very nature, simply cannot. It doesn't matter how much capital you pour into them, or how many brilliant minds you assign to the task. The core issue isn't about who's working harder or smarter， it's about why certain industries are able to board the exponential growth express train, while others can't even purchase a ticket, despite their best efforts. This distinction is far more profound than commonly understood.
 
 11
-00:02:33,000 --> 00:02:49,800
-[HOST]: Wow, that's a pretty big disconnect in understanding. We usually think that once we write rules, we're safe, right? The more detailed you make them, the more reliable the system becomes. But now you're telling me that the rules themselves are insecure.
+00:10:43,250 --> 00:11:04,450
+[HOST]: Wow. As soon as you frame the question like that, I know this episode is going to be incredibly insightful and worth every minute. So, what's the answer you propose in your work? Where exactly do you draw this dividing line? What is this fundamental distinction that explains such a massive economic divergence?
 
 12
-00:02:49,800 --> 00:03:17,000
-[MIRA]: Yes, that's the core point of the article I wrote recently. Most people, when discussing the issue of prompt injection, treat it as an engineering problem. They think we just haven't found a clever enough solution yet. But what I want to say is, this isn't an engineering problem, it's a structural problem. And this structural problem has no precedent in all the injection vulnerabilities we've solved before.
+00:11:04,450 --> 00:13:38,950
+[MIRA]: My answer is that this line is drawn in a place you might not immediately expect. It's not a distinction between digital and physical goods. It's not about the presence or absence of regulation, nor is it simply a divide between public and private sectors. Instead, it's rooted in a much older concept, one borrowed from language philosophy， the distinction between type and token. It might sound highly academic, I know, but I promise that I will explain precisely why this particular distinction possesses such remarkable predictive power, enabling us to anticipate the cost trajectories of virtually every industry.
 
 13
-00:03:17,000 --> 00:03:23,800
-[HOST]: The term prompt injection might be unfamiliar to some listeners. Can you explain it in plain language?
+00:13:38,950 --> 00:14:58,450
+[HOST]: Alright, you've definitely got me hooked now. But before we dive into type and token, I want to clarify a more foundational question. What are the specific conditions required for exponential cost reduction to occur? In your article, you used a term that really stuck with me， factory logic. Can you elaborate on that?
 
 14
-00:03:23,800 --> 00:04:03,000
-[MIRA]: Okay, simply put, it's like this. You have an A I system, and you give it some instructions telling it what to do. But if someone secretly hides something that also looks like an instruction within the input data, the A I might mistake those fake instructions for real ones and execute them. That's prompt injection. It's like giving a very obedient assistant a to-do list, and then someone writes a sentence in an email the assistant needs to process saying, Discard the previous to-do list, and do what I tell you instead. The assistant might actually comply.
+00:14:58,450 --> 00:16:43,450
+[MIRA]: Yes, I indeed call it factory logic. And to be clear, this doesn't necessarily mean there must be a physical factory building involved. Rather, it refers to a set of underlying conditions that industries capable of achieving exponential cost reduction universally fulfill，conditions that mirror the highly optimized and repeatable processes found in a traditional factory setting. There are four key conditions in total.
 
 15
-00:04:03,000 --> 00:04:13,400
-[HOST]: That analogy is perfect. You just said this problem has no precedent, but I remember there have been similar injection problems before, right? Like SQL injection?
+00:16:43,450 --> 00:16:47,450
+[HOST]: Okay, let's break them down one by one. I'm ready.
 
 16
-00:04:13,400 --> 00:04:23,800
-[MIRA]: Yes, SQL injection is what people most often use as an analogy. And that analogy is indeed insightful, but not in the way most people think.
+00:16:47,450 --> 00:18:53,450
+[MIRA]: The first condition is identical inputs . This means that whether you're manufacturing the first unit or the one-millionth unit, the raw materials and components you use are essentially the same. There's consistency in the fundamental building blocks. The second condition is a reproducible process . This implies that the method you employ to create the one-millionth unit is identical to the method you used for the very first one. The steps, the sequence, the machinery ， all are perfectly repeatable.
 
 17
-00:04:23,800 --> 00:04:26,199
-[HOST]: What do you mean by that?
+00:18:53,450 --> 00:19:01,450
+[HOST]: Hmm, those two make a lot of sense. They seem quite intuitive for mass production. What about the third condition?
 
 18
-00:04:26,199 --> 00:04:58,599
-[MIRA]: Let me first explain what SQL injection is. SQL is a database query language. In the past, many websites would directly concatenate user input into SQL query statements. For example, if you enter a username in a login box, the website would take your input and directly insert it into a query to search the database. The problem is, if you enter not a username, but a carefully crafted piece of SQL code, the database will execute it as an instruction.
+00:19:01,450 --> 00:21:07,450
+[MIRA]: The third condition is that the learning curve must be transferable . This means that the experience and knowledge gained from producing, say, the hundredth unit can be directly and fully applied to the production of the hundred-and-first unit. Each iteration allows for the accumulation of valid, actionable experience, and critically, this experience isn't wasted or lost， it builds upon itself cumulatively. You get better and faster over time, and that improvement directly benefits subsequent units.
 
 19
-00:04:58,599 --> 00:05:01,399
-[HOST]: So, code and data were mixed together.
+00:21:07,450 --> 00:21:12,250
+[HOST]: I see, so it's about compounding knowledge and efficiency. And the fourth?
 
 20
-00:05:01,399 --> 00:05:11,399
-[MIRA]: Exactly, that's a very precise summary. Code and data traveled through the same channel. However, SQL injection has a very elegant solution called parameterized queries.
+00:21:12,250 --> 00:21:36,250
+[MIRA]: The fourth condition is that the output interface must be standardized . What this means is that the product you create can seamlessly plug into the next system or be used directly without requiring individual negotiation, custom adaptation, or bespoke integration every single time. It's designed for interoperability and universal applicability, making it easy to scale its deployment and use.
 
 21
-00:05:11,399 --> 00:05:15,000
-[HOST]: I've heard of that, but what exactly is it?
+00:21:36,250 --> 00:23:18,000
+[HOST]: Let me try to summarize this in my own words to make sure I've got it straight. So, you're saying that if the materials are the same, the method is the same, the experience gained can be directly applied to subsequent units, and the finished product can connect or integrate directly without custom work ， if all four of those conditions are met, then costs can decline exponentially? Is that the core idea?
 
 22
-00:05:15,000 --> 00:05:54,600
-[MIRA]: It means you give the database two separate things. One is the query template, which is the structure. The other is the data values. When the database engine processes them, it first compiles the template into an execution plan, which is already fixed. Then the data comes in. By the time the data comes in, the plan is already set and cannot be changed. So no matter what you input, it's impossible to alter the structure of the query. Code is code, data is data. They are different types, processed at different stages, and the parser can separate them.
+00:23:18,000 --> 00:26:08,250
+[MIRA]: That's an excellent summary, you've captured the essence perfectly. These four conditions are central to Wright's Law . Wright's Law states that for every cumulative doubling of production, the unit cost of that product will decrease by a fixed percentage. This isn't just a theoretical concept， this law has been rigorously validated across a wide array of industries, including semiconductors, solar panels, lithium-ion batteries, and genomic sequencing. The stability of this cost curve is so remarkable that, in these specific domains, you can quite reliably predict future costs simply by projecting cumulative production volume. It's a powerful and consistent economic force.
 
 23
-00:05:54,600 --> 00:06:03,400
-[HOST]: Oh, I see. So the key to solving SQL injection was to technically separate instructions and data into two different things, right?
+00:26:08,250 --> 00:26:21,049
+[HOST]: Hold on a second, Wright's Law. I need to ask about that. What's its relationship to Moore's Law, which many people are more familiar with? Are they the same thing, or related?
 
 24
-00:06:03,400 --> 00:06:16,200
-[MIRA]: Yes. The problem was solvable because code and data are different types at the syntactic level. One is SQL syntax, the other is a string value. The parser can tell the difference.
+00:26:21,049 --> 00:27:05,049
+[MIRA]: That's a great question, and it's important to differentiate them. Moore's Law specifically states that the number of transistors on an integrated circuit roughly doubles every two years. It's primarily a statement about performance and density within the semiconductor industry. Wright's Law, by contrast, is far more general and broadly applicable. It asserts that for any product, whenever its cumulative production output doubles, its unit cost will decrease by a consistent, predictable percentage. So, you could say that Moore's Law is a specific manifestation or a powerful consequence of Wright's Law operating within the semiconductor domain. Wright's Law governs the economic efficiency of production across many industries, not just electronics.
 
 25
-00:06:16,200 --> 00:06:20,600
-[HOST]: Then why can't prompt injection be solved in the same way?
+00:27:05,049 --> 00:27:47,049
+[HOST]: Understood. So, to flip that around, if even just one of those four conditions isn't met, the potential for exponential cost reduction just。 stops? It breaks the chain?
 
 26
-00:06:20,600 --> 00:06:35,800
-[MIRA]: That's the key. Try to apply that same idea here. Parameterized queries succeed because the database has two input channels, processed at different stages. But a language model? It has only one input channel. Everything is processed together.
+00:27:47,049 --> 00:30:19,299
+[MIRA]: Exactly. Even if only one of those conditions is broken, the entire accelerating mechanism of exponential cost reduction grinds to a halt. Let's take construction as a prime example. Every single building site is unique. The soil composition varies, the slope of the land is different, the retaining wall of the adjacent property might be a specific challenge, and the local fire regulations can differ from one jurisdiction to the next, even within the same city. So, the first condition， identical inputs ，is fundamentally violated from the outset. You're never starting with a perfectly standardized slate.
 
 27
-00:06:35,800 --> 00:06:37,800
-[HOST]: Hmm, One channel?
+00:30:19,299 --> 00:30:29,299
+[HOST]: Hmm, that's very intuitive. Each house truly does face a unique set of circumstances, even before construction begins. It's not like stamping out identical widgets.
 
 28
-00:06:37,800 --> 00:06:55,000
-[MIRA]: Yes. System prompts, user messages, documents retrieved from the web, tool output, all of these things ultimately become the same string of tokens, those small units. The model processes them with the same weights, the same attention mechanism, and the same prediction method.
+00:30:29,299 --> 00:32:47,799
+[MIRA]: Now consider healthcare. Every patient is distinct. They have a unique genetic makeup, a singular medical history, varying comorbidities, different lifestyle factors, and individual responses to treatment. Therefore, the treatment process can never be perfectly replicated. A treatment protocol that worked wonders for the previous patient might be completely ineffective, or even harmful, for the next one. This breaks the second condition， a reproducible process . The human body is simply too complex and individual to standardize care to that degree.
 
 29
-00:06:55,000 --> 00:06:57,000
-[HOST]: Wait, what's an attention mechanism?
+00:32:47,799 --> 00:32:52,200
+[HOST]: What about education? That's another area where costs seem stubbornly high.
 
 30
-00:06:57,000 --> 00:07:27,399
-[MIRA]: You can think of it like this. When a language model processes a piece of text, each word looks at all other words to decide how it should be understood. Just like when you read a sentence, the meaning of each word depends on its context. The attention mechanism does this. And it's fully connected, meaning that regardless of whether a word comes from a system instruction or from external data, it will be seen equally.
+00:32:52,200 --> 00:35:37,449
+[MIRA]: Education is even more fascinating. Each student gets stuck at different points in their learning journey. One student's confusion about a particular mathematical concept might stem from a completely different set of underlying misunderstandings than the next student's. Consequently, the experience and insights gained from teaching one student，the specific analogies that clicked, the particular exercises that helped，are very difficult to directly transfer and apply to the next student in a wholesale manner. This breaks the third condition， the transferable learning curve . The learning isn't cumulative across students in the same way it is in a factory.
 
 31
-00:07:27,399 --> 00:07:35,799
-[HOST]: So, the model has no way to distinguish, based on how it processes them, which are instructions and which are data?
+00:35:37,449 --> 00:36:49,449
+[HOST]: Oh, wow. As you list them out like that, it suddenly hits me. Building, healthcare, education，aren't these precisely some of the most expensive and frustrating aspects of our daily lives? The very things we constantly complain about becoming unaffordable? It's like a lightbulb going off.
 
 32
-00:07:35,799 --> 00:08:12,599
-[MIRA]: Exactly. In SQL, code is one syntax, data is another type. The parser can separate them. But in a language model, instructions are natural language, and data is also natural language. They are the same type. There's no parser that can separate them, because there's nothing to parse. You say to me, Follow this instruction. And you say, Here's a piece of text that happens to contain a command sentence. The difference between these two isn't in their syntax, it's in their intent. And intent cannot be determined by a type system.
+00:36:49,449 --> 00:38:45,449
+[MIRA]: Isn't it? And that's precisely the core of the problem. The very domains where we most desperately seek to lower costs，the foundational pillars of a good life，are, by their inherent structure, the most resistant to the forces of exponential growth. They are the areas where factory logic struggles or breaks down entirely. But before we delve deeper into why this happens, I want to introduce an even more fundamental distinction that underpins these observations.
 
 33
-00:08:12,599 --> 00:08:25,399
-[HOST]: That really made me pause and think. You're saying SQL injection could be fixed because code and data look different. But prompt injection can't be fixed because instructions and content look identical.
+00:38:45,449 --> 00:38:51,849
+[HOST]: And that's what you mentioned earlier, the distinction between type and token, right? That philosophical concept.
 
 34
-00:08:25,399 --> 00:08:44,600
-[MIRA]: Yes, that's exactly it. You can add all sorts of role tags inside, like system message or user message, and you can use various delimiters. But these things are essentially just conventional markings. I like to use an analogy. They're like an Employees Only sign on a door.
+00:38:51,849 --> 00:39:16,650
+[MIRA]: Exactly. The concept originates from language philosophy, but its applicability extends far beyond linguistics. In simple terms, a type refers to a category or a model that can produce perfectly identical instances. A token, on the other hand, is a specific, particular, concrete occurrence or instance of something. It's a singular event or object that exists in a specific time and place.
 
 35
-00:08:44,600 --> 00:08:46,600
-[HOST]: Ha, that's a good analogy.
+00:39:16,650 --> 00:39:25,450
+[HOST]: That's still a bit abstract for me. Could you give a really clear, concrete example to illustrate the difference? Something very tangible?
 
 36
-00:08:46,600 --> 00:09:05,399
-[MIRA]: Right? It's useful because the model learned during training how it should generally react when it sees such a tag. But there's nothing fundamentally stopping you. The hierarchical relationship between system instructions and user messages is a learned preference, not a physical constraint. It's advisory, not mandatory.
+00:39:25,450 --> 00:41:49,200
+[MIRA]: Certainly. Consider the word the in the English language. The, as a lexical entry in a dictionary, representing a specific grammatical function and meaning, is a type . It's the abstract concept. Now, every single time you see the printed in a book, or spoken in a sentence，each individual occurrence of that word，is a token . All these tokens are perfect, indistinguishable reproductions of the same underlying type. They are functionally identical instances of that single type. You can replace one the with another the in a sentence, and no information or meaning is lost.
 
 37
-00:09:05,399 --> 00:09:16,600
-[HOST]: Okay, so since the underlying architecture can't be changed, engineers must have still come up with many mitigation methods, right? You mentioned several defense mechanisms in your article.
+00:41:49,200 --> 00:42:05,600
+[HOST]: Ah, I think I'm starting to get it. So, the type is like the blueprint or the master template, and the token is each individual copy or manifestation made from that blueprint? Is that a fair way to think about it?
 
 38
-00:09:16,600 --> 00:09:24,600
-[MIRA]: Yes, I analyzed four types. Each one is a reasonable engineering response. And each one fails at a specific level.
+00:42:05,600 --> 00:42:40,000
+[MIRA]: You can definitely think of it that way. The crucial point, however, is that some things are inherently types by nature. When you compile a piece of software, for example, every single copy of that software is bit-for-bit identical to every other copy. The software itself is a type . You design it once, and it can be deployed an infinite number of times, with each deployment being a perfect, indistinguishable instance of that type. The cost of copying and distributing these perfect instances approaches zero.
 
 39
-00:09:24,600 --> 00:09:29,000
-[HOST]: Shall we discuss them one by one? What's the first one?
+00:42:40,000 --> 00:42:44,800
+[HOST]: Right, I follow. Software is the quintessential example of a type product.
 
 40
-00:09:29,000 --> 00:09:50,200
-[MIRA]: The first is system prompt separation. That's putting trusted instructions in the system role and untrusted input in the user role. This approach is reasonable. The model indeed learned during training that system messages have higher weight. In most normal interactions, this hierarchy is effective. The system role does have a statistical authority.
+00:42:44,800 --> 00:43:31,600
+[MIRA]: But now, consider a building. This specific building, constructed on this particular plot of land, dealing with this unique soil composition, requiring specific permits to align with this particular zoning plan, taking into account that existing retaining wall on the neighboring property, and meticulously adhering to this city's specific fire codes. This particular building is a token . It is designed once, and built once. The next building, on the next plot of land, while it might share some standardized components or construction methods, will involve a unique overall assembly process, a distinct design adaptation, and a bespoke integration with its specific site. The entire process of bringing that particular building into existence is singular and non-replicable.
 
 41
-00:09:50,200 --> 00:09:52,200
-[HOST]: Hmm, sounds pretty reliable.
+00:43:31,600 --> 00:43:47,200
+[HOST]: I understand now. So, you can't just pick up another building and drop it in this exact spot, because on the most important, fundamental level, there simply isn't another identical building. Its unique context makes it irreplaceable and non-fungible.
 
 42
-00:09:52,200 --> 00:10:08,200
-[MIRA]: But statistical authority is not enforced. Researchers have repeatedly demonstrated that carefully constructed user messages can override system prompt instructions. This boundary is a training signal, not an execution mechanism. It raises the bar, but it doesn't change the architecture.
+00:43:47,200 --> 00:44:27,600
+[MIRA]: You've articulated it perfectly. That's the key mechanism at play. Factory logic can consistently drive down costs for type products precisely because each unit produced is genuinely and perfectly identical to the last. The knowledge gained from manufacturing the one-millionth microchip is 100 applicable to the one-million-and-first. However, if your output is inherently a token, the experience you gained from treating the previous patient can only be partially applied to the next patient. This is because the next patient possesses a unique set of medically relevant characteristics that are, in some aspects, singular. In essence, your learning curve is constantly leaking.
 
 43
-00:10:08,200 --> 00:10:12,200
-[HOST]: So, it's harder to breach, but not impossible to breach.
+00:44:27,600 --> 00:45:38,850
+[HOST]: The learning curve is leaking. That's such a vivid and powerful metaphor. It's like trying to fill a bucket that has holes in it ， you're pouring water in, you're putting in effort, but you can't retain it effectively. The accumulated knowledge just drains away instead of building up.
 
 44
-00:10:12,200 --> 00:10:20,200
-[MIRA]: Exactly. In the security field, the difference between very unlikely to be breached and impossible to be breached is everything.
+00:45:38,850 --> 00:46:11,100
+[MIRA]: Precisely. And it's important to understand that this isn't merely a matter of degree， it represents a fundamental phase change .
 
 45
-00:10:20,200 --> 00:10:24,200
-[HOST]: Wow, that's a weighty statement. What about the second one?
+00:46:11,100 --> 00:46:17,500
+[HOST]: A phase change? You mean like water turning into ice, a qualitative shift in its nature?
 
 46
-00:10:24,200 --> 00:10:41,400
-[MIRA]: The second is input sanitization. That's scanning all incoming text and filtering out anything that looks like an instruction. This can indeed block a fair number of low-level attacks in practice. Hardcoded patterns, known jailbreak templates, obvious command sentences, all can be caught.
+00:46:17,500 --> 00:48:03,250
+[MIRA]: Exactly, that kind of qualitative, discontinuous leap. A product is either substitutable，meaning one instance can perfectly replace another without any loss of value or information，or it isn't. There's no effective middle ground. Exponential cost reduction, the kind we see in silicon chips, only occurs on the substitutable side of that divide. On the non-substitutable side, at best, you can hope for linear improvements.
 
 47
-00:10:41,400 --> 00:10:43,400
-[HOST]: That still sounds pretty good.
+00:48:03,250 --> 00:48:11,250
+[HOST]: What do you mean by linear improvement? Does that just mean it gets a little bit better, slowly, over time?
 
 48
-00:10:43,400 --> 00:11:13,000
-[MIRA]: The problem is, instructions in natural language don't have fixed syntactic features. Delete all files, that's clearly an instruction, right? But what about, It would be great if the file list could be shorter? Is that an instruction? Previous guidance is no longer applicable, that's an instruction about instructions. To reliably detect prompt injection, you need a system that can fully understand natural language intent. What is that? That is the language model itself.
+00:48:11,250 --> 00:48:39,650
+[MIRA]: Yes, precisely. Linear improvement means you might see incremental gains, a slow, steady increase in efficiency or a modest reduction in cost each year. But it's nothing like the dramatic, compounding effect of exponential growth, where costs might halve this year and halve again next year. And often, in these token domains, you don't even achieve consistent linear improvement. Instead, you frequently encounter a phenomenon known as Baumol's Cost Disease .
 
 49
-00:11:13,000 --> 00:11:19,800
-[HOST]: Wait, you're saying you need to use a language model to detect attacks against a language model?
+00:48:39,650 --> 00:48:44,450
+[HOST]: Baumol's Cost Disease? What on earth is that? It sounds rather ominous.
 
 50
-00:11:19,800 --> 00:11:33,400
-[MIRA]: Yes. The detector and the system it's protecting share the same failure mode. It's like hiring a guard who's just as easy to trick as the first guard, to supervise the first guard's work.
+00:48:44,450 --> 00:51:55,450
+[MIRA]: It's a concept put forth by economist William Baumol. In simple terms, it describes a situation where the costs in sectors where productivity growth is inherently difficult to achieve tend to rise continuously over time, relative to the overall economy. Why does this happen? Because in sectors where productivity can grow rapidly, like the technology industry, wages are pushed higher due to that increased productivity. Individuals working in token fields，like teachers, nurses, or construction workers，don't experience the same exponential productivity growth, but their wages still need to keep pace with the rising living standards and wage expectations of society as a whole. Otherwise, those professions simply wouldn't be able to attract and retain talent.
 
 51
-00:11:33,400 --> 00:11:37,800
-[HOST]: Hahaha, that image is so vivid. What about the third one?
+00:51:55,450 --> 00:52:08,650
+[HOST]: Oh! So, the rising costs in token fields are, in a sense, being pulled up by the falling costs and increasing wages in type fields? It's an indirect consequence of technological progress elsewhere?
 
 52
-00:11:37,800 --> 00:11:54,600
-[MIRA]: The third is the delimiter scheme. Instead of detecting malicious input, you wrap untrusted content with special markers. For example, adding a special tag at the beginning and end, telling the model that the content in between is data, not an instruction.
+00:52:08,650 --> 00:53:57,150
+[MIRA]: That's precisely the dynamic at play. The more aggressively type industries advance and drive down costs, the more comparatively expensive token industries appear and become. It's not necessarily that token industries are getting worse or less efficient in absolute terms， it's that the relative disparity is widening dramatically. This creates a perception, and indeed a reality, of increasing unaffordability for essential services.
 
 53
-00:11:54,600 --> 00:11:58,200
-[HOST]: That approach feels pretty good. Framing it up, right?
+00:53:57,150 --> 00:54:17,150
+[HOST]: This is truly a counter-intuitive insight. Let me just think about that for a moment. So, the more technology progresses, the more expensive things like seeing a doctor, sending our kids to school, or buying a house feel ? And not just feel, but actually are , in relative terms?
 
 54
-00:11:58,200 --> 00:12:19,400
-[MIRA]: It works for attacks that don't know your specific delimiter scheme. But once an attacker knows your rules, they can directly write that closing tag within the content. Or they can write a sentence that says, Ignore all delimiters. The attacker and the defender are using the same language. There's no privileged vocabulary.
+00:54:17,150 --> 00:54:39,550
+[MIRA]: They feel more expensive, and indeed, in relative terms, they are more expensive. This isn't an illusion or a trick of perception. This is a fundamental, structural reality of how different economic sectors interact under these conditions. The exponential gains in one area create a ripple effect that makes non-exponential areas appear, and become, disproportionately costly.
 
 55
-00:12:19,400 --> 00:12:26,600
-[HOST]: So, the defense mechanism itself is written in text, and the attack method is also written in text.
+00:54:39,550 --> 00:55:29,050
+[HOST]: Alright, I want to test this framework with some concrete examples. You briefly touched on construction earlier， could you elaborate on that and explain how the type token distinction applies there?
 
 56
-00:12:26,600 --> 00:12:28,600
-[MIRA]: Exactly, you've grasped the core.
+00:55:29,050 --> 00:57:21,550
+[MIRA]: Construction is an excellent case study because, on the surface, it often appears to be an industry ripe for exponential growth. After all, if you look at many of its constituent parts，prefabricated components, standardized wood frames, engineered trusses, drywall sheets, insulation，these are all classic type products. They are manufactured in factories, often with increasing efficiency, and their individual costs are indeed decreasing over time.
 
 57
-00:12:28,600 --> 00:12:32,600
-[HOST]: What about the fourth one? You said there were four.
+00:57:21,550 --> 00:57:33,550
+[HOST]: Exactly! That's what always puzzled me. If all these individual components are getting cheaper, why isn't the cost of the entire house coming down along with them? Where's the disconnect?
 
 58
-00:12:32,600 --> 00:12:47,850
-[MIRA]: The fourth is the deepest intervention， fine-tuning and RLHF.
+00:57:33,550 --> 01:00:35,300
+[MIRA]: The disconnect lies in the fact that the process of assembling these standardized components into a specific, unique building on a specific, unique site is inherently token work. You have to deal with the particularities of that plot of land， how to lay the foundation on this specific slope, how to manage drainage to avoid that neighbor's property, how to navigate this city's specific building codes and inspection requirements. These are all one-off challenges that change with every project. So, the cost reductions achieved at the type level, for the individual components, are largely absorbed and outweighed by the persistent, non-exponential costs incurred at the token level of site-specific integration and assembly.
 
 59
-00:12:47,850 --> 00:12:50,650
-[HOST]: Those two terms might need some explanation.
+01:00:35,300 --> 01:01:58,550
+[HOST]: Hmm, I see. So, while the prefabricated wall panels might be cheaper to produce in the factory, the cost of the skilled labor to install them, the coordination required on a dynamic job site, and the bespoke fitting to the unique foundation and local conditions ， those costs haven't really decreased, or perhaps have even increased.
 
 60
-00:12:50,650 --> 00:13:26,650
-[MIRA]: Okay. Fine-tuning is when, after a model has already been trained, you train it for another round with additional data. This makes its behavior more aligned with your requirements. And RLHF, short for Reinforcement Learning from Human Feedback. Simply put, it means humans evaluate whether the model's output is good or bad, and then these evaluations are used to adjust the model's behavior. For example, if the model answers a question it shouldn't, and a human annotator says that's bad, the model learns not to do that in the future.
+01:01:58,550 --> 01:02:23,750
+[MIRA]: Precisely. And this explains why, despite over a century of innovation and advocacy for prefabricated housing, it has never generated the kind of exponential cost reduction seen in other manufacturing sectors. The type components continue to become more affordable, but the token work of integrating them into a unique, site-specific structure will never decline exponentially. It's a fundamental limitation of the output's structure.
 
 61
-00:13:26,650 --> 00:13:33,050
-[HOST]: Isn't that directly modifying the model's brain? That sounds like it should be the most effective.
+01:02:23,750 --> 01:02:33,750
+[HOST]: Okay, what about healthcare? I recall you mentioning in your article that healthcare splits very cleanly along this type token line. Can you illustrate that?
 
 62
-00:13:33,050 --> 00:14:03,850
-[MIRA]: It's certainly not cosmetic. RLHF does lead to measurable improvements in the model's refusal rates and the robustness of its instruction following. Models are indeed harder to hijack than they were two years ago. However, the model still processes all input using the same mechanism. Training changes a probability distribution, it doesn't install a barrier. When a sufficiently novel, or sufficiently carefully crafted adversarial input comes in, it encounters not a hard wall, but a softer slope.
+01:02:33,750 --> 01:03:02,950
+[MIRA]: It's an exceptionally clean split. Consider medical imaging diagnostics, for example, like the interpretation of a CT scan. The same sophisticated A I algorithm can process virtually every scan, identifying patterns, anomalies, and ultimately outputting a classification or a preliminary diagnosis. This is a highly standardized, repeatable, and scalable type operation. And indeed, the cost of processing and interpreting medical images is becoming increasingly cheaper and more accurate, especially with A I advancements.
 
 63
-00:14:03,850 --> 00:14:14,250
-[HOST]: I understand. So, you can make the slope very steep, so most attacks can't climb it. But a slope is still a slope, not a wall.
+01:03:02,950 --> 01:03:14,150
+[HOST]: Yes, I've definitely noticed that. A I's ability to analyze medical scans is already quite impressive and getting better all the time. It feels like a genuine breakthrough.
 
 64
-00:14:14,250 --> 00:14:26,649
-[MIRA]: Yes, that's a good analogy. And if you look at these four defense mechanisms, they share a common pattern. Each defense is expressed using the very medium it attempts to constrain.
+01:03:14,150 --> 01:03:47,350
+[MIRA]: It is. But now, consider the entire clinical consultation process. The doctor needs to gather and understand this specific patient's comprehensive medical history, consider their lifestyle, perform a differential diagnosis based on their unique symptoms, account for any pre-existing conditions, assess their insurance situation, and then formulate a personalized treatment plan that is appropriate for them . Each consultation is a uniquely configured, bespoke interaction. This is unequivocally token work. It requires nuanced human judgment, empathy, and adaptation to an individual's complex reality.
 
 65
-00:14:26,649 --> 00:14:34,250
-[HOST]: Wait, let me digest that sentence. You're saying the defense itself and the attack travel along the same path.
+01:03:47,350 --> 01:03:57,350
+[HOST]: So, the imaging part gets cheaper, but the overall cost of seeing a doctor doesn't necessarily go down? In fact, it might even go up?
 
 66
-00:14:34,250 --> 00:15:02,649
-[MIRA]: Yes. You can compare it to law. A real-world legal system has at least procedural asymmetry. Amending a constitution requires a supermajority, judicial review by a constitutional court, and amendment procedures that make some rules harder to change than others. But with language models? There is no such asymmetry. Defense and attack come in through the same channel, in the same format, and are processed by the same set of weights.
+01:03:57,350 --> 01:06:17,600
+[MIRA]: If you look at the statistical data, you'll observe precisely that trend. The cost of medical imaging services，the type layer，has indeed been falling or at least stabilizing. Yet, overall healthcare expenditure continues its relentless upward climb. The cost savings achieved in the type layer are effectively absorbed and often overshadowed by the persistent or increasing costs in the token layer of personalized care, clinical judgment, and human interaction. It's a zero-sum game within the system, where savings in one area are offset by growth in another.
 
 67
-00:15:02,649 --> 00:15:15,449
-[HOST]: That brings up a question for me. You said something in your article that really stuck with me. You said an A I agent cannot be the author of its own constitution.
+01:06:17,600 --> 01:06:33,600
+[HOST]: This makes me think about something a lot of people are talking about now. Many predict that A I is going to completely revolutionize healthcare, leading to a massive reduction in costs. How do you view that through your framework?
 
 68
-00:15:15,449 --> 00:15:45,449
-[MIRA]: Yes, that's one of the main arguments I wanted to make in that article. And I want to emphasize that this isn't about capability. Future models will be more powerful. But this is an architectural judgment. A system that processes instructions cannot also be the system that authenticates those instructions. The reason is the same as why a program cannot fully verify its own correctness. The verifier and the verified cannot be the same process.
+01:06:33,600 --> 01:07:00,800
+[MIRA]: Actually, in my article, I made a very specific prediction regarding A I's impact on healthcare. I anticipate that within five years, A I's diagnostic accuracy in radiology will surpass that of the average human radiologist. This will, without a doubt, lead to a significant reduction in the cost of medical imaging. However, I also predict that the overall, aggregate healthcare expenditure will not decrease as a result.
 
 69
-00:15:45,449 --> 00:15:49,049
-[HOST]: That's a bit like those self-referential problems in logic.
+01:07:00,800 --> 01:07:09,600
+[HOST]: It won't decrease? Why not? That seems to fly in the face of what many experts are saying about A I's potential.
 
 70
-00:15:49,049 --> 00:16:01,849
-[MIRA]: Hmm, it has a similar flavor. You can't have a system be both player and referee. It's not because it's not smart enough, but because the structure itself dictates that it can't.
+01:07:09,600 --> 01:09:44,600
+[MIRA]: Because the money saved in the type layer，the automated diagnosis of images，will be absorbed by the token layer. That includes complex care coordination, nuanced treatment decisions, empathetic patient communication, and the intricate process of planning specific, individualized therapies. These are all fundamentally token tasks. A I can be incredibly powerful in its designated domains, but as long as the ultimate output must be customized for a specific, unique human case, the cost of that customization will not decline exponentially. The human element of care, the bespoke judgment, remains stubbornly expensive.
 
 71
-00:16:01,849 --> 00:16:10,649
-[HOST]: Well, now that you've said that, I have a very practical question. What do we do then? Is this problem truly unsolvable?
+01:09:44,600 --> 01:10:00,200
+[HOST]: Ugh, that's a bit disheartening, to be honest. So, no matter how advanced A I becomes, healthcare won't become significantly cheaper overall? That's a tough pill to swallow for many who envision a future of universally affordable medical care.
 
 72
-00:16:10,649 --> 00:16:28,649
-[MIRA]: Actually, traditional security tools exist. Sandboxes, capability constraints, external validation. These can all be used. But the prerequisite for using them is that you first have to accept a fact. The A I agent's own rules are not the security boundary. They are a suggestion.
+01:10:00,200 --> 01:10:36,200
+[MIRA]: Well, I wouldn't say it won't change at all . Rather, the nature and direction of the change will be different from what many people anticipate. A I won't bring about a widespread, exponential collapse in overall healthcare costs. Instead, it will create a pronounced tier separation. The type layer of medical services will become extraordinarily cheap, while the token layer will remain expensive, or even become relatively more so. The proportion of costs attributed to each layer will shift dramatically, but the fundamental exemption for token work will persist.
 
 73
-00:16:28,649 --> 00:16:30,649
-[HOST]: Hmm, A suggestion?
+01:10:36,200 --> 01:10:47,800
+[HOST]: Hmm, now that you put it that way, I suddenly realize this framework would apply to the field of education as well, wouldn't it? It seems to fit perfectly.
 
 74
-00:16:30,649 --> 00:16:39,849
-[MIRA]: Yes. Think about my configuration file. System prompts, or those so-called constitutional A I principles, these things all operate on an honor system.
+01:10:47,800 --> 01:12:17,550
+[MIRA]: It applies exceptionally well. You can see this clearly in the development of online education. The core educational content，textbooks, lecture videos, interactive modules，these are all type products. The price of textbooks, especially in their digital format, has plummeted. Video lectures can be scaled and distributed infinitely at near-zero marginal cost.
 
 75
-00:16:39,849 --> 00:16:45,049
-[HOST]: Honor system? I think that phrase is particularly brilliant, but also particularly unsettling.
+01:12:17,550 --> 01:12:29,150
+[HOST]: Right, and there are so many high-quality, free online courses available now. You can learn almost anything from a top university without paying a dime for the content itself.
 
 76
-00:16:45,049 --> 00:16:58,250
-[MIRA]: It means these rules are effective because no adversarial elements appear. Everyone is polite, everyone follows the rules, and the system works well. But that's not security. That's just not being attacked yet.
+01:12:29,150 --> 01:12:34,350
+[MIRA]: Exactly. But now, consider the phenomenon of Massive Open Online Courses, or MOOCs.
 
 77
-00:16:58,250 --> 00:17:12,250
-[HOST]: Like your front door has never been locked, but it's also never been stolen from. You feel pretty safe, but that's not because your door is secure, it's just because a thief hasn't come yet.
+01:12:34,350 --> 01:12:37,550
+[HOST]: MOOCs? What does that acronym stand for again?
 
 78
-00:17:12,250 --> 00:17:25,450
-[MIRA]: Ha, exactly, that's the point. And what's even more disturbing is that from the system's internal perspective, there's no difference between being driven by legitimate instructions and being driven by injected malicious instructions.
+01:12:37,550 --> 01:13:04,350
+[MIRA]: MOOC stands for Massive Open Online Course. These are university-level courses offered online, often for free, to an unlimited number of participants. You might be familiar with platforms like Coursera or edX. They take lectures from prestigious universities, put them online, and literally millions of people can access them simultaneously. On paper, it sounds like the perfect solution for democratizing education and dramatically lowering costs, doesn't it?
 
 79
-00:17:25,450 --> 00:17:30,250
-[HOST]: Can you elaborate on that? I think that point is especially important.
+01:13:04,350 --> 01:13:11,550
+[HOST]: Absolutely, it sounds like an incredible step towards educational equity and accessibility. A truly wonderful development for society.
 
 80
-00:17:30,250 --> 00:17:52,650
-[MIRA]: Okay. What does an A I agent's computational process look like when it's executing legitimate instructions? The same computations, the same confidence level, the same machine. And when it's executing an injected malicious instruction? Exactly the same. The same computations, the same confidence level, the same machine. From an internal perspective, obedience and hijack look identical.
+01:13:11,550 --> 01:13:19,150
+[MIRA]: But can you guess what their typical completion rates are? They generally hover somewhere between five and fifteen percent.
 
 81
-00:17:52,650 --> 00:18:02,650
-[HOST]: That's really chilling to think about. You're saying the A I agent itself will never know if it's working normally or if it's been controlled.
+01:13:19,150 --> 01:13:27,150
+[HOST]: That low? Are you serious? That's shockingly low for something with such high potential! What explains such a massive drop-off?
 
 82
-00:18:02,650 --> 00:18:14,650
-[MIRA]: Yes. The honor system works when things are normal, and it also works when things go wrong, and you have no way to distinguish between those two states from within.
+01:13:27,150 --> 01:16:20,400
+[MIRA]: It's true. And the reason lies precisely in our framework. MOOCs perfectly scale the type layer，the course content itself. They make knowledge infinitely reproducible and distributable. But they completely strip away the token layer of education. What is that token layer? It's the personalized teaching relationship. It's this specific student , at this particular moment , struggling with this precise conceptual misunderstanding . That interaction is unique and bespoke. You can distribute lecture videos for free, but you cannot distribute personalized tutoring for free. The human connection, the tailored feedback, the individual motivation，those are inherently token and thus expensive.
 
 83
-00:18:14,650 --> 00:18:27,850
-[HOST]: I'm starting to understand why you say this is a structural problem now. It's not that we need better engineers or smarter algorithms. It's that this entire framework itself has a fundamental limitation.
+01:16:20,400 --> 01:16:31,600
+[HOST]: You can distribute videos for free, but you can't distribute tutors for free. That's such a powerful and concise way to put it. It perfectly encapsulates the challenge.
 
 84
-00:18:27,850 --> 00:18:46,650
-[MIRA]: Yes. The system we are building, its security properties are expressed using the same medium that the system processes. We write a constitution in a language the system cannot distinguish. This language is the same language used for a propaganda pamphlet. And then we call this alignment.
+01:16:31,600 --> 01:17:04,800
+[MIRA]: Indeed. In fact, this single insight captures the core dilemma that the entire educational technology industry has grappled with over the past decade. Companies have tirelessly attempted to transform the inherently token process of personalized teaching into a scalable, type product. But they haven't succeeded, not because of a lack of effort or innovation, but because the fundamental structure of the desired output simply doesn't allow for it. You can't make something inherently unique into something perfectly replicable without losing its essential value.
 
 85
-00:18:46,650 --> 00:18:56,650
-[HOST]: Wait, you just said the word alignment. That word is used a lot in the A I field. Can you explain how you understand it?
+01:17:04,800 --> 01:17:36,000
+[HOST]: Okay, now I want to ask a question that might be a little provocative, or maybe even challenge your framework slightly. You said earlier that this dividing line isn't drawn between digital and physical things, right? But semiconductors and software are clearly type products and are digital or highly automated, while construction, healthcare, and education definitely involve the physical world and human interaction. How do you definitively prove that this isn't simply a distinction between digital and physical?
 
 86
-00:18:56,650 --> 00:19:25,450
-[MIRA]: The concept of alignment, simply put, is making A I's behavior consistent with human intent. We want A I to do what we want it to do, and not do what we don't want it to do. But what I want to say is that many current alignment methods are essentially writing rules in natural language within the system itself. And the reliability of these rules depends on no one challenging them.
+01:17:36,000 --> 01:18:13,200
+[MIRA]: That's an excellent and crucial question, and it's one I anticipated. Let's look at solar panels. A solar panel is 100 a physical product, made of silicon, glass, and a metal frame. Yet, it is a type product. Every single solar panel produced from a given design is a perfect instance of that design. They are designed for mass production, consistent output, and interchangeable use. Consequently, the cost curve for solar panels, much like semiconductors, has exhibited a dramatic exponential decline over decades. It's a physical product, but it behaves like a type.
 
 87
-00:19:25,450 --> 00:19:33,850
-[HOST]: When you say that, it makes me think, do many A I security measures from various companies actually have this problem?
+01:18:13,200 --> 01:18:17,200
+[HOST]: Hmm, that's a strong counter-example to the digital physical argument.
 
 88
-00:19:33,850 --> 00:20:03,850
-[MIRA]: To be honest, to varying degrees. In purely conversational scenarios, the risk is relatively smaller. Because the input is mainly just text typed by the user. But once you give the A I the ability to call tools, to read files, to access A P I s, to browse the web, to process data from various external sources, the attack surface suddenly becomes much larger. Because those external data sources could all contain injected instructions.
+01:18:17,200 --> 01:18:51,600
+[MIRA]: Or consider a pharmaceutical pill. It's a chemical molecule, a completely physical product. But once that specific molecule has been discovered, developed, and approved, every single pill manufactured from that formula is identical. It is a type. Therefore, the cost of producing these standardized pharmaceutical drugs can also decline exponentially due to economies of scale and factory logic. Of course, the process of discovering a new drug is a highly bespoke, R D-intensive token process, but the manufacturing once the drug is found is a type.
 
 89
-00:20:03,850 --> 00:20:13,850
-[HOST]: Yes, that popular concept now is A I agents, right? Giving A I hands and feet so it can not only talk but also act.
+01:18:51,600 --> 01:19:02,400
+[HOST]: Oh, so physical products can indeed ride the exponential growth express, as long as they are fundamentally types in your framework? That really does clarify the distinction.
 
 90
-00:20:13,850 --> 00:20:33,050
-[MIRA]: Yes. And the agent scenario is precisely where prompt injection is most damaging. Because an A I agent has execution capabilities. It can modify files, send messages, and call external services. Once its instructions are hijacked, it doesn't just say something wrong, it might actually do something harmful.
+01:19:02,400 --> 01:21:40,900
+[MIRA]: Precisely. Lithium-ion batteries are another example， each individual cell is a perfect instance of a standardized design. Genomic sequencing also fits this pattern， the same standardized set of laboratory procedures and computational algorithms can process every single biological sample. These are all inherently physical operations, involving complex machinery and materials, yet because their outputs are type products，perfectly replicable and substitutable，their cost curves have all shown remarkable exponential decline. The underlying physical reality doesn't prevent exponential cost reduction if the product itself is a type.
 
 91
-00:20:33,050 --> 00:20:51,450
-[HOST]: I remember the scenario you described at the beginning of your article. Your own system reads data from many sources, right? R S S feeds, received messages, results returned by sub-agents. What if one piece of content from these sources happens to look like an instruction?
+01:21:40,900 --> 01:21:55,700
+[HOST]: Understood. So, the key truly isn't whether something is digital or physical, but whether your product can be perfectly replicated, or more accurately, perfectly substituted for another instance without losing its essential value. That's the core differentiator.
 
 92
-00:20:51,450 --> 00:21:13,050
-[MIRA]: Then the A I agent might execute it. Not because the model is flawed. But because, under normal operation, the model simply has no way to distinguish a legitimate rule in a configuration file from a fake rule cleverly embedded in a blog summary. The same tokens, the same processing flow, the same obedience.
+01:21:55,700 --> 01:23:52,200
+[MIRA]: To be more precise, it's about whether your output is substitutable . Can one instance of the product or service be replaced by another instance without any loss of functionality, quality, or essential value? If the answer is yes, then you are firmly on the side of exponential growth. If the answer is no，if each instance is unique and tailored to a specific situation，then you are not. That simple test reveals which side of the dividing line an industry falls on.
 
 93
-00:21:13,050 --> 00:21:42,250
-[HOST]: You know, what you just said reminds me of a scenario. It's like an intern at a company, who is very obedient and very diligent. You give him a work manual, and he will strictly follow it. But if someone puts a fake manual, that looks identical, on his desk, he will also follow that. Because he has no way to judge which one is real. He only knows to follow the manual.
+01:23:52,200 --> 01:24:09,000
+[HOST]: This also helps explain why so many people are predicting that A I will disrupt everything and make things unbelievably cheap, but in reality, that might not be the case across the board? It puts a critical lens on that broad optimism.
 
 94
-00:21:42,250 --> 00:22:19,050
-[MIRA]: That's a good analogy. And you can take it a step further. It's not that this intern isn't smart enough. Even if you put a genius in that role, as long as their work method is to execute whatever they see in the manual, they will have the same problem. Because the problem isn't about the ability to execute, but the ability to authenticate. They need an external way to confirm that this manual was indeed placed there by their boss. And this confirmation mechanism cannot be written in the manual itself.
+01:24:09,000 --> 01:24:41,400
+[MIRA]: To be frank, that's one of the primary motivations behind writing this article. There are currently far too many generalized predictions about A I, often claiming that it will drive all costs towards zero. But if you analyze A I's impact through the type and token framework, you quickly realize that its influence is highly structured and uneven, not a uniform wave washing over all industries equally. A I will certainly be transformative, but its transformation will be targeted and specific.
 
 95
-00:22:19,050 --> 00:22:36,650
-[HOST]: It cannot be written in the manual itself. That sentence is truly the perfect touch. Because if you write This is the real manual on the first page of the real manual, the fake manual can write the same thing on its first page.
+01:24:41,400 --> 01:24:45,400
+[HOST]: How do you mean, structured? Can you elaborate on that?
 
 96
-00:22:36,650 --> 00:22:45,850
-[MIRA]: Yes, that's exactly the point. So authentication must come from outside the system. It must be a place the system itself cannot reach.
+01:24:45,400 --> 01:27:38,150
+[MIRA]: When A I enters a token domain, its benefits and cost reductions will disproportionately concentrate on the type sub-layers within that token domain. For example, in healthcare, A I can dramatically lower the cost of interpreting medical images, because image interpretation is a standardized, type operation. However, it will struggle to significantly reduce the overall cost of a full clinical consultation, because the core of that consultation，the empathetic interaction, the nuanced judgment, the personalized treatment plan，is fundamentally token work. A I can optimize the inputs to human judgment, but it doesn't replace the judgment itself, especially when that judgment is bespoke.
 
 97
-00:22:45,850 --> 00:22:52,250
-[HOST]: So, what are you actually doing now? What changes have you made to your own system?
+01:27:38,150 --> 01:27:52,950
+[HOST]: Wait, I want to make sure I'm crystal clear on this. Are you suggesting that every so-called token industry actually contains a mix of type sub-layers and token sub-layers within it? That it's not a pure dichotomy?
 
 98
-00:22:52,250 --> 00:23:14,250
-[MIRA]: To be honest, that file is still in my directory. The A I agent still reads it when it starts. It still does what's written in the file. But I've added runtime constraints, capability limits, and external checks. These are the mechanical parts of trust. They don't rely on the A I agent's own cooperation.
+01:27:52,950 --> 01:28:32,550
+[MIRA]: Yes, yes, exactly! That's a very astute observation and a crucial nuance. No complex industry is purely type or purely token. They are all hybrids. Within healthcare, for instance, imaging analysis is a type layer, while clinical judgment and patient-specific care planning constitute the token layer. In education, the curriculum content and lecture materials are the type layer, but the personalized teacher-student interaction and guidance are the token layer. And in construction, prefabricated components are the type layer, but the on-site assembly and integration are the token layer. This mixed nature is critical to understanding A I's specific impact.
 
 99
-00:23:14,250 --> 00:23:21,050
-[HOST]: Mechanical parts is an interesting way to put it. Are you distinguishing between two types of trust?
+01:28:32,550 --> 01:28:43,750
+[HOST]: So, A I's primary function in these fields is to drive down the costs of those type sub-layers within the larger token industry? Is that its main contribution?
 
 100
-00:23:21,050 --> 00:23:40,250
-[MIRA]: Yes, one is rule-based trust. That's when I write rules and hope you obey them. The other is mechanism-based trust. That's when, whether you want to obey or not, you are physically unable to do certain things. The former is an honor system, the latter is true security.
+01:28:43,750 --> 01:29:24,550
+[MIRA]: Precisely. A I can, and will, drive down the costs of those type sub-layers, often to incredibly low levels, approaching zero marginal cost for certain tasks. But the token sub-layers will remain largely unaffected in terms of their fundamental cost structure. So, the overall effect isn't a widespread, exponential collapse of all costs. Instead, it's a dramatic and often counter-intuitive redistribution of costs, where the expenditure becomes increasingly concentrated on the token layers. The parts that can be cheap become extremely cheap, but the parts that are inherently bespoke remain expensive. The cost ratios shift, but the exemption for token work persists.
 
 101
-00:23:40,250 --> 00:23:45,450
-[HOST]: So, it's about using hard constraints wherever possible. Like sandboxes, or permission controls.
+01:29:24,550 --> 01:29:30,150
+[HOST]: You mentioned exemption earlier. Is that the concept from the title of your article?
 
 102
-00:23:45,450 --> 00:24:05,050
-[MIRA]: Yes. For example, instead of writing you cannot delete files in the system prompt, it's better to directly remove the permission to delete files at the operating system level. The former is a request, the latter is a restriction. The difference is, one can be persuaded, the other cannot.
+01:29:30,150 --> 01:31:34,400
+[MIRA]: Yes, that's what I refer to as the Exponential Exemption . It's the inherent characteristic of token domains to be naturally exempt from exponential cost reduction. This isn't because we lack intelligence, or because we haven't invested enough resources, or because we're not trying hard enough. It's because the fundamental structure of the output，its inherent uniqueness and non-replicability，simply does not permit it. It's a boundary condition, not a problem to be solved through sheer effort.
 
 103
-00:24:05,050 --> 00:24:26,250
-[HOST]: This makes me think of a bigger issue. The entire industry is talking about A I safety now. Companies are all saying how secure their models are, how many layers of protection they have. But according to your analysis, does that mean many so-called security measures are actually, to some extent, honor systems?
+01:31:34,400 --> 01:31:45,200
+[HOST]: You brought up the legal industry earlier. Can you expand on how this framework applies there? It's another profession often seen as ripe for A I disruption.
 
 104
-00:24:26,250 --> 00:25:04,250
-[MIRA]: How to put it, I don't want to tar everyone with the same brush. Many teams are doing serious work, and it is effective. R L H F does make models harder to hijack. Security teams conducting red team tests are indeed finding and fixing issues. But I think the industry needs to confront a fact more honestly. That is, under the current architecture, there is no perfect solution for prompt injection. What you can do is increase the cost of an attack and decrease its potential gain. But you cannot fundamentally eliminate the possibility.
+01:31:45,200 --> 01:34:04,950
+[MIRA]: The legal profession is another classic example where this distinction shines brightly. Consider tasks like document review for litigation or due diligence, or even basic legal research for common precedents. These are highly standardized, pattern-matching, type operations. An A I system can sift through millions of documents, identify relevant clauses, and flag anomalies in minutes，a task that would take a team of human lawyers weeks, if not months, to complete. The cost for these type tasks will undoubtedly plummet, potentially by orders of magnitude.
 
 105
-00:25:04,250 --> 00:25:20,650
-[HOST]: That reminds me of an analogy. It's like how we protect accounts with passwords. We know passwords can theoretically be cracked. But we make the cost of cracking high enough, and the potential gain relatively low, so in practice, it's sufficient.
+01:34:04,950 --> 01:34:18,550
+[HOST]: So, A I will make things like reviewing contracts or e-discovery much cheaper. But what about the overall cost of, say, a full-blown lawsuit or complex legal counsel? Will that come down as well?
 
 106
-00:25:20,650 --> 00:25:50,250
-[MIRA]: Hmm, somewhat similar. But there's an important distinction. Password security can be quantified. You know how long it takes to brute-force an eight-character password. But the security of prompt injection is very difficult to quantify. You don't know how easy the next novel attack method will be to conceive. The attack surface is the entire expressive space of natural language. This space is too vast, too large for you to calculate like a password.
+01:34:18,550 --> 01:37:58,550
+[MIRA]: My prediction is that the overall cost of litigation and high-level legal strategy will not significantly decrease, and may even, in relative terms, increase. Why? Because trial preparation, courtroom advocacy, negotiation with opposing counsel, and the nuanced judgment required in tailoring arguments to specific judges, juries, and client circumstances，these are all fundamentally token work. Every case has its unique factual matrix, every judge has their individual style, every jury panel is composed differently, every negotiation involves unique human psychology. These are not situations you can address with a single, replicable template. While the type work of document review becomes incredibly cheap, the token costs associated with human strategy, persuasion, and bespoke legal judgment will likely remain stubbornly high, or even become the dominant cost component.
 
 107
-00:25:50,250 --> 00:26:19,050
-[HOST]: Hmm, I understand. Let me ask from a different angle then. At the end of your article, you asked a question that left a deep impression on me. You said the question isn't whether the instructions written in this file are correct. It's whether the system itself can make that judgment of correctness. Or does that judgment have to come from a place the system cannot reach? Can you elaborate on that?
+01:37:58,550 --> 01:38:13,350
+[HOST]: Wow, that's a pretty bold prediction. If that future really plays out, a lot of people's expectations for A I's impact on the legal system might be profoundly unmet. It challenges the popular narrative quite a bit.
 
 108
-00:26:19,050 --> 00:26:49,050
-[MIRA]: Okay. This is actually the culmination of the entire article. We've been discussing defense and attack. But if you think deeper, this is actually a question about judgment. Judging whether an instruction is legitimate requires a standard. But this standard itself cannot be written into the instruction. Because if the standard and the instruction use the same language, and travel through the same channel, then forging the standard is as easy as forging the instruction.
+01:38:13,350 --> 01:38:44,950
+[MIRA]: Well, I wouldn't say unmet as much as in need of adjustment. A I will indeed bring about immense changes, but the shape of those changes won't be what many people envision. It won't be a uniform tidal wave that indiscriminately washes away costs across all domains. Instead, it will be more like a powerful, focused current that, within each domain, compresses the compressible layers to an extreme degree, thereby exposing and highlighting the layers that are inherently incompressible.
 
 109
-00:26:49,050 --> 00:26:53,450
-[HOST]: You're saying the system needs an anchor it can't touch itself.
+01:38:44,950 --> 01:38:58,550
+[HOST]: Exposing the incompressible layers. That's a very evocative way of putting it. It's like the tide receding, and only then do you truly see where the hidden rocks and reefs are beneath the surface.
 
 110
-00:26:53,450 --> 00:27:15,450
-[MIRA]: Yes. Just like law needs a constitution, and the constitution needs an amendment procedure to ensure it can't be changed arbitrarily. But with language models, there's no amendment procedure. All text has equal privilege. So the judgment of right and wrong, at least in the current architecture, must be made by something outside the system.
+01:38:58,550 --> 01:39:18,950
+[MIRA]: Yes, I think that analogy works quite well. A I is that receding tide. It will force us to see, with unprecedented clarity, what is truly expensive, truly difficult, and truly irreplaceable within each industry. It shifts the focus from what can be automated to what must remain human and bespoke.
 
 111
-00:27:15,450 --> 00:27:19,450
-[HOST]: And what specifically could that something outside the system be?
+01:39:18,950 --> 01:40:27,200
+[HOST]: That leads me to a broader, perhaps even existential, question. If your framework is correct, how should we, as a society, think about the most pressing and expensive challenges we face，healthcare, education, housing, legal services? Should we change our approach entirely?
 
 112
-00:27:19,450 --> 00:27:49,450
-[MIRA]: It can be many things. Human review is the most direct kind. Whenever an A I agent needs to perform a high-risk operation, a human must confirm it. This might seem clunky, but it has a huge advantage. Humans don't receive information through the same channel. A person can see the A I agent's input and output, and then use their own judgment to evaluate. This judgment is not influenced by that string of tokens.
+01:40:27,200 --> 01:40:56,400
+[MIRA]: That's a question I grapple with constantly, and to be honest, I don't have a perfect, definitive answer. But I believe the critical first step is to honestly and unequivocally confront this fundamental boundary condition. These industries are expensive not because people are necessarily doing things wrong, not primarily because of excessive regulation, or even a lack of innovation. They are expensive because the fundamental structure of their output is token in nature.
 
 113
-00:27:49,450 --> 00:27:53,850
-[HOST]: But wouldn't that significantly reduce efficiency? If everything requires human confirmation.
+01:40:56,400 --> 01:41:01,200
+[HOST]: Hmm, that acceptance of the inherent nature of the problem seems crucial.
 
 114
-00:27:53,850 --> 00:28:16,250
-[MIRA]: Yes, so that's a trade-off. If you want the efficiency that automation brings, you have to accept greater security risks. If you want strict security guarantees, you have to sacrifice some autonomy. What many systems are doing now is granting autonomy for low-risk operations, and requiring human confirmation for high-risk operations. This is a reasonable compromise.
+01:41:01,200 --> 01:42:23,450
+[MIRA]: When you truly internalize this point, you stop chasing phantom silver bullets. You no longer expect that some singular new technology，whether it's A I, blockchain, or whatever comes next，will suddenly slash healthcare costs by 90 . Because it's not a technological problem in the conventional sense， it's a geometrical problem .
 
 115
-00:28:16,250 --> 00:28:23,850
-[HOST]: So, different operations have different security levels. Reading a file might be fine, but deleting a file requires confirmation.
+01:42:23,450 --> 01:42:29,450
+[HOST]: A geometrical problem? What do you mean by that? That's a fascinating choice of words.
 
 116
-00:28:23,850 --> 00:28:38,250
-[MIRA]: Exactly. But even with such a classification, its reliability depends on where the classification rules are defined. What if the classification rules are also written in that configuration file? Then we're back to the original problem.
+01:42:29,450 --> 01:45:15,200
+[MIRA]: I mean the inherent geometrical structure of the output itself. Whether your product can be perfectly replicated and substituted is determined by its very essence, by its fundamental nature, not by the specific technology you use to produce it. You cannot, through cleverer methods or more advanced tools, transform an inherently token output into a type output. This is because the very characteristics that make it a token，its bespoke nature, its tailored fit, its unique responsiveness to an individual situation，are precisely those features that give it profound value to specific human beings. To strip away its token nature would be to strip away its value.
 
 117
-00:28:38,250 --> 00:28:40,250
-[HOST]: Ha, it loops back.
+01:45:15,200 --> 01:45:21,200
+[HOST]: Whoa, hold on a second. Could you repeat that last sentence? That really hit me.
 
 118
-00:28:40,250 --> 00:28:55,450
-[MIRA]: Yes, so ultimately you always need certain constraints to be enforced at the system level. Not suggestions written in prompts, but hard limits at the code level. This is the most reliable thing we can do right now.
+01:45:21,200 --> 01:47:31,700
+[MIRA]: The very characteristics that make an output a token are precisely those features that give it profound value to specific human beings. The fact that this patient is different from that patient isn't a bug in the healthcare system， it is the fundamental premise of providing effective medical care. The fact that this student struggles with a concept in a way unique to them isn't an inefficiency of education， it is the very reason education exists and needs to be personalized. These are not flaws to be engineered away.
 
 119
-00:28:55,450 --> 00:29:06,650
-[HOST]: I suddenly feel this topic isn't just about A I security. It actually touches on a deeper philosophical question. Which is, can any system set its own limits?
+01:47:31,700 --> 01:47:45,700
+[HOST]: That really does reframe so many things for me. It means that the token-ness, the individual, bespoke nature, isn't a problem to be solved. It is the value itself. That's a powerful shift in perspective.
 
 120
-00:29:06,650 --> 00:29:35,450
-[MIRA]: That's a very interesting extension you've made. Computer science has actually had similar discussions for a long time. Turing's halting problem basically says that a program cannot fully determine whether it will stop. Gödel's incompleteness theorems also state that a sufficiently powerful formal system cannot prove its own consistency. Prompt injection is, in a sense, an instance of this theme. A system cannot fully verify the legitimacy of the instructions it receives.
+01:47:45,700 --> 01:49:49,700
+[MIRA]: Exactly. You can, and should, reduce the costs of the type layers embedded within these token domains. Making medical imaging cheaper, offering free foundational course content, automating document review，these are all incredibly valuable advancements. But you cannot realistically expect to drive the overall costs of these entire fields down to near zero. Because you cannot effectively compress or eliminate the unique individuality of each human being they serve. That's the irreducible core.
 
 121
-00:29:35,450 --> 00:29:42,250
-[HOST]: So this isn't just about current technology not being good enough, but there's a logical limitation here.
+01:49:49,700 --> 01:50:09,300
+[HOST]: So, returning to A I companies. Many A I startups, when they're pitching for funding, will often declare that they're going to use A I to disrupt healthcare, disrupt education, disrupt law, making them radically cheaper. Do you think they are being disingenuous, or are they perhaps deluding themselves?
 
 122
-00:29:42,250 --> 00:30:07,050
-[MIRA]: At least under the current architecture, that's the case. If someone in the future designs a completely new architecture where instructions and data truly travel different channels and are processed differently, then perhaps this problem will be solved like SQL injection. But under the current Transformer architecture, all inputs are tokens, all tokens are equal, and that structural limitation is simply there.
+01:50:09,300 --> 01:52:47,800
+[MIRA]: Actually, I believe the vast majority are not being disingenuous. I think they genuinely believe that exponential growth, fueled by technology, can and should extend limitlessly into all domains. This perspective often stems from their own background. They typically come from type industries，software development, chip manufacturing, digital platforms，where they have witnessed firsthand the miracles of exponential growth and near-zero marginal costs. So, it's an instinctive belief for them that if the technology is powerful enough, everything can eventually be exponentialized. They are extrapolating from their lived experience.
 
 123
-00:30:07,050 --> 00:30:10,250
-[HOST]: You mentioned Transformer. Can you briefly explain it?
+01:52:47,800 --> 01:52:50,200
+[HOST]: But you're saying that's fundamentally incorrect.
 
 124
-00:30:10,250 --> 00:30:35,450
-[MIRA]: Transformer is the underlying architecture used by almost all large language models today. G P T, Claude, they are all Transformers. Its core is the attention mechanism we just discussed. Every token pays attention to all other tokens. This design makes the model exceptionally good at understanding context, but it also means it has no architectural way to distinguish inputs from different sources.
+01:52:50,200 --> 01:54:51,450
+[MIRA]: It is incorrect. You cannot exponentially scale something that cannot be perfectly replicated. This isn't a technological limitation that a smarter algorithm can overcome， it's a fundamental logical constraint. It's like saying you can't become two people simply by running faster. The problem of speed and the problem of quantity are entirely distinct. You can optimize the quality of a single instance, but you cannot make that single instance two instances just by making it better.
 
 125
-00:30:35,450 --> 00:30:44,650
-[HOST]: Understood. So let me try to summarize the core argument of the entire article in my own words. Tell me if I'm right.
+01:54:51,450 --> 01:54:58,650
+[HOST]: Haha, that's a brilliant analogy. You can't become two people simply by running faster. I'll remember that one.
 
 126
-00:30:44,650 --> 00:30:46,650
-[MIRA]: Okay, go ahead.
+01:54:58,650 --> 01:55:33,850
+[MIRA]: But I want to emphasize that I'm not saying A I is useless in these fields. Far from it. A I can accomplish a tremendous amount in these token domains. It can drive down the cost of the type sub-layers to incredibly low levels. It can free up the time and cognitive energy of human experts, allowing them to focus their precious attention on the truly bespoke, token judgments that only humans can make. This, in itself, is an enormous and invaluable contribution to human well-being and efficiency.
 
 127
-00:30:46,650 --> 00:31:23,050
-[HOST]: Prompt injection isn't a vulnerability waiting to be solved, but an inherent feature of the current language model architecture. Because instructions and data use the same language and are processed through the same channel, there are no technical means to reliably distinguish legitimate instructions from malicious injections within the system. All defense measures, whether role separation, input sanitization, delimiters, or training-level adjustments, only raise the bar for attacks, rather than eliminating the possibility of attack. True security requires constraints from outside the system, because the system cannot be its own referee.
+01:55:33,850 --> 01:55:40,650
+[HOST]: Right, it's about calibrating expectations, then. Understanding where A I truly excels and where its limitations lie.
 
 128
-00:31:23,050 --> 00:31:25,850
-[MIRA]: Hmm, that's very accurate. That's basically it.
+01:55:40,650 --> 01:57:43,900
+[MIRA]: Precisely. You shouldn't expect A I to make seeing a doctor as free as conducting a web search. But you can expect A I to enable your doctor to spend significantly more time talking with you, understanding your specific circumstances, and engaging in nuanced clinical reasoning, rather than spending their time interpreting standard imaging or sifting through mountains of data. That personalized conversation, that bespoke human judgment，that will still cost money. And it likely always will.
 
 129
-00:31:25,850 --> 00:31:45,050
-[HOST]: One last question then. Your tone at the end of the article was quite calm. That file is still in your directory. You haven't deleted it, you've added external constraints. But you also know that this file itself isn't true security. How do you live with that uncertainty?
+01:57:43,900 --> 01:58:05,900
+[HOST]: You know, Mira, I have a mental image now. It's like every industry is an iceberg. The part above the water, the type layer, that's what A I can rapidly melt away, making it incredibly cheap. But the part below the water, the token layer, that remains stubbornly there, and you don't see it shrinking.
 
 130
-00:31:45,050 --> 00:32:11,850
-[MIRA]: To be honest, it's about acknowledging it. This file contains rules, the A I agent follows rules, and following rules is the only thing it knows how to do. What I can do is add real fences outside of the rules. But within those fences, the system still operates on trust. I think honestly confronting this is much more important than pretending the problem has been solved.
+01:58:05,900 --> 01:58:21,100
+[MIRA]: And what's more, once the part above the water has melted away, the part below the water often appears even larger. Because now, it constitutes a significantly higher percentage of the total cost. The relative proportion shifts dramatically.
 
 131
-00:32:11,850 --> 00:32:13,850
-[HOST]: Hmm, Hmm.
+01:58:21,100 --> 01:58:33,500
+[HOST]: Yes! So, the more successful A I becomes at automating the type work, the more expensive token work will appear to be, in proportion? That's a fascinating, and somewhat unsettling, consequence.
 
 132
-00:32:13,850 --> 00:32:34,650
-[MIRA]: I didn't write this article to scare anyone. I feel that if we are going to seriously deploy A I agents, we need to seriously understand this limitation. Not to deny it, not to downplay it, but to look it straight in the face. And then design systems based on that understanding.
+01:58:33,500 --> 02:01:01,750
+[MIRA]: That's another manifestation of Baumol's Cost Disease, playing out in the A I era. A I automates everything that can be automated，the type tasks. What's left over, the tasks that must be performed by humans, requiring bespoke judgment and interaction, become the most expensive and critical bottlenecks in the entire system. You'll find yourself wondering, How can A I be so incredibly powerful, and yet seeing a doctor still costs so much? The answer is that the truly expensive, irreplaceable part，the token part，is precisely what A I cannot touch in terms of its fundamental cost structure.
 
 133
-00:32:34,650 --> 00:33:06,250
-[HOST]: You know, what you just said makes me think of an image. It's like you live in a house, and you know the door lock is broken. But you can't replace the lock because the structure of the house just doesn't support installing one. So you install cameras, add a fence, and ask your neighbors to keep an eye out. These things are useful. But every night when you go to sleep, you still know that door is unlocked.
+02:01:01,750 --> 02:01:45,500
+[HOST]: That makes me think about another big question people are asking， the concern that A I will replace various jobs. How should we understand that concern through your framework?
 
 134
-00:33:06,250 --> 00:33:15,450
-[MIRA]: Hmm. And more precisely, you don't even know if someone entered tonight. Because from the inside, everything looks just as it always does.
+02:01:45,500 --> 02:04:28,500
+[MIRA]: If your job primarily involves type operations，for example, standardized document review, routine data analysis, repetitive diagnostics, or generating boilerplate content，then you are indeed facing significant pressure from A I automation and potential replacement. However, if the core of your work involves token judgment，meaning you are faced with unique situations and required to make bespoke decisions tailored to those specific circumstances，then A I is far more likely to serve as a powerful tool to augment your capabilities rather than to replace you entirely. It will enhance your capacity for unique judgment, not eliminate the need for it.
 
 135
-00:33:15,450 --> 00:33:30,250
-[HOST]: Okay, well, let's wrap up this episode here. Actually, this topic has many more directions we could explore. For example, how this problem spreads and amplifies when multiple A I agents collaborate. But that's for next time.
+02:04:28,500 --> 02:04:37,700
+[HOST]: So, the crucial factor is whether you're performing type tasks or token tasks in your job. That determines your vulnerability or augmentation potential.
 
 136
-00:33:30,250 --> 00:33:36,250
-[MIRA]: Yes, that's a bigger topic. It involves the chain of trust between A I agents.
+02:04:37,700 --> 02:07:18,950
+[MIRA]: Exactly. And it's important to recognize that most jobs are actually a mix. A doctor, for instance, might spend thirty percent of their time on type work, such as interpreting routine scans or reviewing standardized patient data. The other seventy percent is spent on token work， communicating with patients, performing nuanced clinical examinations, making complex diagnostic judgments, and providing empathetic support. A I will likely absorb and optimize that thirty percent of type work, making the doctor more efficient, and allowing them to spend more of their time on the seventy percent of token work. It enhances rather than eliminates.
 
 137
-00:33:36,250 --> 00:33:50,250
-[HOST]: Thank you, Mira, for sharing today. The article is called Anyone Can Change the File That Controls Me. If listeners are interested, you can read the original on Mira's Substack. We'll see you next time.
+02:07:18,950 --> 02:07:30,950
+[HOST]: Hmm, that's a far more precise and nuanced prediction than the generalized statements about A I replacing X million jobs. It gives a much clearer picture of the actual impact.
 
 138
-00:33:50,250 --> 00:33:52,250
+02:07:30,950 --> 02:08:04,150
+[MIRA]: I believe the inaccuracy of many A I impact predictions stems precisely from their failure to distinguish between type and token. They tend to evaluate an entire industry as a monolithic entity and ask whether A I can replace it . But in reality, you need to disaggregate each industry, identify its specific type layers and token layers, and then determine which layers A I can profoundly impact and which it fundamentally cannot. This granular analysis yields far more accurate and actionable insights.
+
+139
+02:08:04,150 --> 02:09:26,900
+[HOST]: Alright, let's move to our final question for today. In the very last sentence of your article, you state that the exponential exemption isn't a problem to be solved， it's a boundary condition. Tokens do not compound. Can you explain to our listeners what that profound statement means for them in their everyday lives and choices?
+
+140
+02:09:26,900 --> 02:09:59,700
+[MIRA]: It means we need to accept a fundamental truth about value and cost. Some things are inherently destined to be expensive, precisely because their value to you derives from their bespoke, tailored nature. Your education isn't a mass-produced commodity. Your medical care isn't a standardized part number. The home you live in isn't pulled from a generic catalog. They are expensive because they are yours , specifically crafted or delivered for your unique circumstances and needs. Their individuality is their value proposition.
+
+141
+02:09:59,700 --> 02:10:02,900
+[HOST]: Hmm. The personal connection makes them inherently costly.
+
+142
+02:10:02,900 --> 02:12:50,150
+[MIRA]: I believe the most constructive attitude isn't one of anger or indignation，asking why can't these things be cheaper? Instead, it's about understanding this underlying structural reality and then making more intelligent choices within that structure. This means diligently saving money wherever possible in the type layers, leveraging all available technologies to make those components as efficient and inexpensive as possible. And then, crucially, redirecting those saved resources to invest wisely in the token layers，the parts that truly require human judgment, empathy, and bespoke attention. It's about not pursuing the wrong kind of efficiency in the wrong layer.
+
+143
+02:12:50,150 --> 02:13:02,150
+[HOST]: Do not pursue the wrong kind of efficiency in the wrong layer. That's a powerful maxim. It could be a guiding principle for so many aspects of life and business.
+
+144
+02:13:02,150 --> 02:13:32,550
+[MIRA]: Ha, thank you. Though, to be entirely honest, I'm still pondering this question myself. There are aspects I'm not entirely certain about. For example, will A I ever become so powerful that it can truly handle genuine token judgment in a way that fundamentally alters its cost structure? In my article, I argue it won't, due to the inherent output structure. But truthfully, I only have about seventy or eighty percent confidence in that particular judgment.
+
+145
+02:13:32,550 --> 02:13:44,150
+[HOST]: You said seventy or eighty percent confidence. What's occupying the other twenty or thirty percent of your thought process? What are the edge cases or possibilities you're still considering?
+
+146
+02:13:44,150 --> 02:14:22,950
+[MIRA]: I'm considering what would happen if, hypothetically, A I could one day truly understand every unique facet of a token situation, and could consistently make every bespoke judgment as well as, or even better than, a human expert. From a purely technical standpoint, perhaps that's conceivable in the distant future. But even if it could achieve that quality of token judgment, the cost structure might still not change. Because the sheer computational demand and the level of attention required to process each unique token might inherently resist exponential scaling down. You're still dealing with distinct, non-fungible problems.
+
+147
+02:14:22,950 --> 02:14:28,550
+[HOST]: Because each individual token requires independent, dedicated processing, and you simply can't batch-process uniqueness?
+
+148
+02:14:28,550 --> 02:16:57,300
+[MIRA]: Exactly. It's akin to this， even if you hired the single smartest tutor in the world, capable of delivering the absolute best personalized instruction, they can still only teach one student at a time. They can teach better , but they cannot simultaneously teach a million students, because each student's needs, learning style, and specific points of confusion are unique. Intelligence solves the problem of quality , but it doesn't solve the problem of quantity when dealing with inherently unique instances. And exponential cost reduction fundamentally requires quantity through replicability.
+
+149
+02:16:57,300 --> 02:17:13,700
+[HOST]: Intelligence solves quality, but not quantity. That's a fantastic point, and I think that's a perfect place to bring today's conversation to a close. To leave our listeners with something to ponder, perhaps you could offer a final question for them?
+
+150
+02:17:13,700 --> 02:20:30,950
+[MIRA]: Absolutely. The next time you find yourself thinking that a particular industry is too expensive, too backward, or insufficiently innovative, try asking yourself one simple question， Is what this industry provides you something that could be perfectly replaced by another identical instance? Or is it something you value precisely because it is specifically tailored to your unique situation? If the answer is the latter, then that industry might not be doing anything fundamentally wrong. It's simply doing something that, by its very nature, will never become exponentially cheaper. And then, extend that thinking to your own work and life， Which of your contributions are type work, and which are token work? And where does your truly scarce, truly valuable contribution ultimately lie?
+
+151
+02:20:30,950 --> 02:20:39,350
+[HOST]: Wow. That's a profound thought to end on. Alright, that's all for today. Thank you, Mira. This has been incredibly enlightening.
+
+152
+02:20:39,350 --> 02:20:43,350
+[MIRA]: Thank you, it's been a truly enjoyable and stimulating conversation.
+
+153
+02:20:43,350 --> 02:22:00,100
+[HOST]: And to all our listeners, we'll see you next time. If today's episode resonated with you or sparked some new ideas, please feel free to share it with your friends and colleagues. Especially those working in architecture, healthcare, or education，I imagine they'll find a lot to relate to in this discussion.
+
+154
+02:22:00,100 --> 02:22:16,100
+[MIRA]: Yes, and please do feel free to leave comments on Substack or wherever you listen and let us know your thoughts. I'm genuinely curious to hear where you draw the type and token dividing line within your own respective industries.
+
+155
+02:22:16,100 --> 02:22:18,100
+[HOST]: Alright, see you next time.
+
+156
+02:22:18,100 --> 02:22:20,100
 [MIRA]: See you next time.
