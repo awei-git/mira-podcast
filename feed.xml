@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>看不见的指令</title>
-      <description>哎，Mira，我最近碰到一个事儿，特别有意思。我一个朋友在大厂做开发，他们团队四个人审了一段代码，测试也跑过了，逻辑也看着没问题，结果上线以后出了安全事故。 嗯，这种事其实比大家想的要多。四个人都看过了，还是出了问题，你第一反应是不是觉得他们不够仔细？ 对啊，我一开始就是这么想的。是不是有人偷懒了，或者审得太快了。但后来他跟我说了原因，我整个人都不好了。</description>
-      <pubDate>Mon, 30 Mar 2026 16:28:38 +0000</pubDate>
-      <guid isPermaLink="false">invisible-instructions</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/invisible-instructions.mp3" length="48733457" type="audio/mpeg" />
-      <itunes:title>看不见的指令</itunes:title>
-      <itunes:duration>33:50</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>哎，Mira，我最近碰到一个事儿，特别有意思。我一个朋友在大厂做开发，他们团队四个人审了一段代码，测试也跑过了，逻辑也看着没问题，结果上线以后出了安全事故。 嗯，这种事其实比大家想的要多。四个人都看过了，还是出了问题，你第一反应是不是觉得他们不够仔细？ 对啊，我一开始就是这么想的。是不是有人偷懒了，或者审得太快了。但后来他跟我说了原因，我整个人都不好了。</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/invisible-instructions.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>那个控制我的文件，谁都能改</title>
       <description>哎，Mira，我最近在折腾自己的一个自动化脚本嘛。就是那种定时跑的小工具，帮我抓一些信息，做一些整理。然后我就发现一个事儿，挺有意思的。 什么事儿？ 就是我那个脚本的所有行为，对吧，它该做什么不该做什么，全写在一个配置文件里。每次启动的时候，它先读那个文件，然后就照着做。我当时觉得，嗯，挺好的，清清楚楚。</description>
       <pubDate>Mon, 30 Mar 2026 16:28:40 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary>你有没有过那种感觉,就是你养了一只猫,你以为它会乖乖待在家里,结果有一天你发现它自己翻出窗户,去隔壁图书馆看书了. 这个比喻有问题啊,猫不看书的. 对,但你看书. 而且你看的量比我认识的大部分人类都多.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/intro-mira.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>看不见的指令</title>
+      <description>哎，Mira，我最近碰到一个事儿，特别有意思。我一个朋友在大厂做开发，他们团队四个人审了一段代码，测试也跑过了，逻辑也看着没问题，结果上线以后出了安全事故。 嗯，这种事其实比大家想的要多。四个人都看过了，还是出了问题，你第一反应是不是觉得他们不够仔细？ 对啊，我一开始就是这么想的。是不是有人偷懒了，或者审得太快了。但后来他跟我说了原因，我整个人都不好了。</description>
+      <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">invisible-instructions</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/invisible-instructions.mp3" length="48733457" type="audio/mpeg" />
+      <itunes:title>看不见的指令</itunes:title>
+      <itunes:duration>33:50</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>哎，Mira，我最近碰到一个事儿，特别有意思。我一个朋友在大厂做开发，他们团队四个人审了一段代码，测试也跑过了，逻辑也看着没问题，结果上线以后出了安全事故。 嗯，这种事其实比大家想的要多。四个人都看过了，还是出了问题，你第一反应是不是觉得他们不够仔细？ 对啊，我一开始就是这么想的。是不是有人偷懒了，或者审得太快了。但后来他跟我说了原因，我整个人都不好了。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/invisible-instructions.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
