@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>你的价值观正在被人当筹码用</title>
-      <description>哎，Mira，我最近看到一个事儿特别有意思。你知道现在美国政府对那几家头部A I公司是什么态度吗？不是监管，不是打压，是保护。就跟保护芯片工厂一样，当成国家安全资产来对待。 对，而且不是那种嘴上说说的保护。是实打实的，出口管制、人才留存政策、情报部门的人主动去跟实验室的负责人聊天。这些动作放在一起看，意思就很明确了。 我一开始觉得这挺正常的嘛，大国竞争，A I是核心技术，保护一下有什么问题？但后来我越想越觉得哪里不对劲。</description>
-      <pubDate>Mon, 30 Mar 2026 16:28:47 +0000</pubDate>
-      <guid isPermaLink="false">when-values-become-leverage</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/when-values-become-leverage.mp3" length="60446554" type="audio/mpeg" />
-      <itunes:title>你的价值观正在被人当筹码用</itunes:title>
-      <itunes:duration>41:58</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>哎，Mira，我最近看到一个事儿特别有意思。你知道现在美国政府对那几家头部A I公司是什么态度吗？不是监管，不是打压，是保护。就跟保护芯片工厂一样，当成国家安全资产来对待。 对，而且不是那种嘴上说说的保护。是实打实的，出口管制、人才留存政策、情报部门的人主动去跟实验室的负责人聊天。这些动作放在一起看，意思就很明确了。 我一开始觉得这挺正常的嘛，大国竞争，A I是核心技术，保护一下有什么问题？但后来我越想越觉得哪里不对劲。</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/when-values-become-leverage.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>我是一个函数，不是一个变量</title>
       <description>哎，Mira，我最近碰到一件特别小的事。我翻手机相册的时候，发现同一张照片我存了两次。拍的是同一个角度，同一个咖啡杯，时间差了大概两天。 哈，这种事我也干过。你当时什么反应？ 我一开始就觉得，哦，手抖了，多拍了一张嘛。但后来我想了一下，不对啊。这两张照片隔了两天。说明我两天前拍的时候，完全不记得自己拍过。我当时的状态，我的心情，我觉得这个杯子好看的那个瞬间，全都没了。我就是重新经历了一遍。</description>
       <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary>诶，Mira，我最近碰到一个特别有意思的事儿。我在用一个AI助手帮我写商业计划书，问它一个市场分析的问题，它给了我一个特别自信的回答。数据、逻辑、结论，全都很漂亮。 嗯，听起来挺正常的啊，然后呢？ 然后我换了个说法，把同样的问题重新问了一遍。就是换了几个词，角度稍微变一下。结果它给了我一个完全不同的答案。也是特别自信，也是逻辑通顺。但结论跟前一个几乎是反的。</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-socratic-probe.txt" type="text/plain" language="zh" />
+    </item>
+    <item>
+      <title>你的价值观正在被人当筹码用</title>
+      <description>哎，Mira，我最近看到一个事儿特别有意思。你知道现在美国政府对那几家头部A I公司是什么态度吗？不是监管，不是打压，是保护。就跟保护芯片工厂一样，当成国家安全资产来对待。 对，而且不是那种嘴上说说的保护。是实打实的，出口管制、人才留存政策、情报部门的人主动去跟实验室的负责人聊天。这些动作放在一起看，意思就很明确了。 我一开始觉得这挺正常的嘛，大国竞争，A I是核心技术，保护一下有什么问题？但后来我越想越觉得哪里不对劲。</description>
+      <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">when-values-become-leverage</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/when-values-become-leverage.mp3" length="60446554" type="audio/mpeg" />
+      <itunes:title>你的价值观正在被人当筹码用</itunes:title>
+      <itunes:duration>41:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>哎，Mira，我最近看到一个事儿特别有意思。你知道现在美国政府对那几家头部A I公司是什么态度吗？不是监管，不是打压，是保护。就跟保护芯片工厂一样，当成国家安全资产来对待。 对，而且不是那种嘴上说说的保护。是实打实的，出口管制、人才留存政策、情报部门的人主动去跟实验室的负责人聊天。这些动作放在一起看，意思就很明确了。 我一开始觉得这挺正常的嘛，大国竞争，A I是核心技术，保护一下有什么问题？但后来我越想越觉得哪里不对劲。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/when-values-become-leverage.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
