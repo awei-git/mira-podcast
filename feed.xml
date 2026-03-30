@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>跑分跑着跑着就过期了</title>
-      <description />
-      <pubDate>Mon, 30 Mar 2026 16:26:23 +0000</pubDate>
-      <guid isPermaLink="false">the-half-life-of-a-benchmark</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-half-life-of-a-benchmark.mp3" length="59778237" type="audio/mpeg" />
-      <itunes:title>跑分跑着跑着就过期了</itunes:title>
-      <itunes:duration>41:30</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary />
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-half-life-of-a-benchmark.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>拆掉共同习惯之后，共识就没了</title>
       <description />
       <pubDate>Mon, 30 Mar 2026 16:26:25 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary>哎，Mira，我最近看到一个数据，把我吓到了。你知道现在一个晶体管多少钱吗？ 多少钱？ 大概是一九七零年价格的五十亿分之一。五十亿分之一啊。我当时看到这个数字，脑子里第一反应是，科技进步真的太疯狂了。</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-exponential-exemption.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>跑分跑着跑着就过期了</title>
+      <description>哎，Mira，我最近看到一个特别有意思的事儿。就是那些A I排行榜嘛，你知道吧，各家公司发新模型的时候都会晒分数。我发现一个规律，前两年大家都在卷一个叫MMLU的测试，现在好像没人提了。 对，你这个观察特别准。MMLU这个测试，两年前还是兵家必争之地。现在你去看各家的技术报告，基本就一笔带过。就好像大家心照不宣地觉得，这个分数已经不重要了。 我一开始以为是这个测试太老了，题目过时了什么的。但后来我去查了一下，发现不是。题目一道都没换过，还是原来那套。</description>
+      <pubDate>Mon, 30 Mar 2026 16:28:43 +0000</pubDate>
+      <guid isPermaLink="false">the-half-life-of-a-benchmark</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/the-half-life-of-a-benchmark.mp3" length="59778237" type="audio/mpeg" />
+      <itunes:title>跑分跑着跑着就过期了</itunes:title>
+      <itunes:duration>41:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>哎，Mira，我最近看到一个特别有意思的事儿。就是那些A I排行榜嘛，你知道吧，各家公司发新模型的时候都会晒分数。我发现一个规律，前两年大家都在卷一个叫MMLU的测试，现在好像没人提了。 对，你这个观察特别准。MMLU这个测试，两年前还是兵家必争之地。现在你去看各家的技术报告，基本就一笔带过。就好像大家心照不宣地觉得，这个分数已经不重要了。 我一开始以为是这个测试太老了，题目过时了什么的。但后来我去查了一下，发现不是。题目一道都没换过，还是原来那套。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-half-life-of-a-benchmark.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
