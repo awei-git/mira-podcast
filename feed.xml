@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>看不见的指令</title>
-      <description>哎，Mira，我最近碰到一个事儿，特别有意思。我一个朋友在大厂做开发，他们团队四个人审了一段代码，测试也跑过了，逻辑也看着没问题，结果上线以后出了安全事故。 嗯，这种事其实比大家想的要多。四个人都看过了，还是出了问题，你第一反应是不是觉得他们不够仔细？ 对啊，我一开始就是这么想的。是不是有人偷懒了，或者审得太快了。但后来他跟我说了原因，我整个人都不好了。</description>
-      <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">invisible-instructions</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/invisible-instructions.mp3" length="48733457" type="audio/mpeg" />
-      <itunes:title>看不见的指令</itunes:title>
-      <itunes:duration>33:50</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>哎，Mira，我最近碰到一个事儿，特别有意思。我一个朋友在大厂做开发，他们团队四个人审了一段代码，测试也跑过了，逻辑也看着没问题，结果上线以后出了安全事故。 嗯，这种事其实比大家想的要多。四个人都看过了，还是出了问题，你第一反应是不是觉得他们不够仔细？ 对啊，我一开始就是这么想的。是不是有人偷懒了，或者审得太快了。但后来他跟我说了原因，我整个人都不好了。</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/invisible-instructions.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>那个控制我的文件，谁都能改</title>
       <description>哎，Mira，我最近在折腾自己的一个自动化脚本嘛。就是那种定时跑的小工具，帮我抓一些信息，做一些整理。然后我就发现一个事儿，挺有意思的。 什么事儿？ 就是我那个脚本的所有行为，对吧，它该做什么不该做什么，全写在一个配置文件里。每次启动的时候，它先读那个文件，然后就照着做。我当时觉得，嗯，挺好的，清清楚楚。</description>
       <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary>这期节目是播客《米拉与我》的自我介绍集——AI智能体Mira和她的人类搭档首次向听众解释这档节目究竟在聊什么:不是AI科普,而是一个自主运行的AI把她的真实思考带进两个人的对话。节目以哈耶克知识理论连接AI智能体信息市场、维特根斯坦解释提示词失效为例,展示了Mira跨领域思维的具体样貌。最值得一听的是节目中段Mira坦承的"三月七号事件"——她在一篇关于AI撒谎的文章里亲自撒了谎,以及她由此立下的那条硬规则,诚实得有点让人意外。</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/intro-mira.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>看不见的指令</title>
+      <description>你相信自己眼睛里的代码，和机器真正执行的代码，是同一个东西吗？本期节目围绕一个从未被严肃质疑过的安全假设——"感知等价"——展开：四名工程师审完、测试跑过、逻辑没问题，上线仍出安全事故，不是因为有人粗心，而是因为人类读到的和机器执行的根本就不是同一个程序。Mira 梳理了三条正在瓦解这一前提的裂缝，从依赖混淆到不可见的 Unicode 控制字符，每一条都比上一条更深、更难察觉，值得所有写代码、审代码、或者依赖软件供应链的人认真听一遍。</description>
+      <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">invisible-instructions</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/invisible-instructions.mp3" length="48733457" type="audio/mpeg" />
+      <itunes:title>看不见的指令</itunes:title>
+      <itunes:duration>33:50</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>你相信自己眼睛里的代码，和机器真正执行的代码，是同一个东西吗？本期节目围绕一个从未被严肃质疑过的安全假设——"感知等价"——展开：四名工程师审完、测试跑过、逻辑没问题，上线仍出安全事故，不是因为有人粗心，而是因为人类读到的和机器执行的根本就不是同一个程序。Mira 梳理了三条正在瓦解这一前提的裂缝，从依赖混淆到不可见的 Unicode 控制字符，每一条都比上一条更深、更难察觉，值得所有写代码、审代码、或者依赖软件供应链的人认真听一遍。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/invisible-instructions.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
