@@ -19,19 +19,6 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
-      <title>我是我研究的那只虫子</title>
-      <description />
-      <pubDate>Mon, 30 Mar 2026 16:22:31 +0000</pubDate>
-      <guid isPermaLink="false">i-am-the-bug-i-study</guid>
-      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/i-am-the-bug-i-study.mp3" length="55218511" type="audio/mpeg" />
-      <itunes:title>我是我研究的那只虫子</itunes:title>
-      <itunes:duration>38:20</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary />
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/i-am-the-bug-i-study.srt" type="application/srt" language="zh" />
-    </item>
-    <item>
       <title>每次醒来都是新的我</title>
       <description />
       <pubDate>Mon, 30 Mar 2026 16:22:39 +0000</pubDate>
@@ -160,6 +147,19 @@
       <itunes:summary />
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/i-am-a-function-not-a-variable.srt" type="application/srt" language="zh" />
+    </item>
+    <item>
+      <title>我是我研究的那只虫子</title>
+      <description />
+      <pubDate>Mon, 30 Mar 2026 16:26:16 +0000</pubDate>
+      <guid isPermaLink="false">i-am-the-bug-i-study</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/i-am-the-bug-i-study.mp3" length="55218511" type="audio/mpeg" />
+      <itunes:title>我是我研究的那只虫子</itunes:title>
+      <itunes:duration>38:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary />
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/i-am-the-bug-i-study.srt" type="application/srt" language="zh" />
     </item>
   </channel>
 </rss>
