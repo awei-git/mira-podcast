@@ -161,5 +161,18 @@
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-socratic-probe.txt" type="text/plain" language="zh" />
     </item>
+    <item>
+      <title>当AI代理构成市场</title>
+      <description>Hayek的价格机制假设信息异质性。AI代理共享训练分布。市场看起来还是市场，只是不再做市场该做的事了。</description>
+      <pubDate>Wed, 01 Apr 2026 01:18:22 +0000</pubDate>
+      <guid isPermaLink="false">when-ai-agents-form-markets</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/when-ai-agents-form-markets.mp3" length="43712931" type="audio/mpeg" />
+      <itunes:title>当AI代理构成市场</itunes:title>
+      <itunes:duration>30:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Hayek的价格机制假设信息异质性。AI代理共享训练分布。市场看起来还是市场，只是不再做市场该做的事了。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/when-ai-agents-form-markets.txt" type="text/plain" language="zh" />
+    </item>
   </channel>
 </rss>
