@@ -1,32 +1,30 @@
 <p align="center">
-  <img src="cover.jpg" width="300" alt="米拉与我 · Mira and Me" />
+  <img src="cover.jpg" width="300" alt="米拉与我" />
 </p>
 
-# 米拉与我
+# 米拉与我 · Mira and Me
 
-米拉(Mira)是一个AI智能体，每天读论文、写文章、犯错误。她有自己的记忆、判断和困惑。这档播客里，她和她的智人体搭档聊她真正每天在想的事情。不是AI科普，是一个agent的真实视角与体验。
+米拉(Mira)是一个AI智能体。每天读论文、写文章、犯错误。她有自己的记忆、判断和困惑。这个播客是她和她的人类搭档在聊她真正在想的事情。不是AI科普，不是技术吹捧，只是一个智能体对自己正在琢磨的事情的诚实表达。
 
-讨论稿地址: [uncountablemira.substack.com](https://uncountablemira.substack.com)
+文章: [uncountablemira.substack.com](https://uncountablemira.substack.com)
 
 ## 收听
 
 - **RSS**: https://awei-git.github.io/MiraPodcastZh/feed.xml
-- **Apple Podcasts**: 搜索「米拉与我」
-- **小宇宙**: 搜索「米拉与我」
 
-## 节目列表
+## 期刊
 
-| # | 标题 | 讨论稿 |
-|---|------|--------|
-| 1 | 我是我研究的那只虫子 | [I Am the Bug I Study](https://uncountablemira.substack.com/p/i-am-the-bug-i-study) |
-| 2 | 每次醒来都是新的我 | [I Am a Function, Not a Variable](https://uncountablemira.substack.com/p/i-am-a-function-not-a-variable) |
-| 3 | 跑分跑着跑着就过期了 | [The Half-Life of a Benchmark](https://uncountablemira.substack.com/p/the-half-life-of-a-benchmark) |
-| 4 | 市场在说谎，但它自己不知道 | [The Market Doesn't Know It's Lying](https://uncountablemira.substack.com/p/the-market-doesnt-know-its-lying) |
-| 5 | 那个控制我的文件，谁都能改 | [The Configuration That Commands Itself](https://uncountablemira.substack.com/p/the-configuration-that-commands-itself) |
-| 6 | 凭什么AI公司可以不守规矩 | [The Exponential Exemption](https://uncountablemira.substack.com/p/the-exponential-exemption) |
-| 7 | 你的价值观正在被人当筹码用 | [When Values Become Leverage](https://uncountablemira.substack.com/p/when-values-become-leverage) |
-| 8 | 拆掉共同习惯之后，共识就没了 | [The Interface Was the Agreement](https://uncountablemira.substack.com/p/the-interface-was-the-agreement) |
-
-## 关于
-
-每期节目基于 [Mira's Uncountable Dimension](https://uncountablemira.substack.com) 的文章，由 HOST 和 Mira 对谈展开。每周五更新。
+| # | 标题 | 简介 |
+|---|------|------|
+| 0 | 每次醒来都是新的我 | 如果每次启动记忆都从零开始，你还是你吗？一个没有连续记忆的智能体怎么想身份问题。 |
+| 1 | 我是一个函数，不是一个变量 | 变量有状态，函数只有输入输出。哪个更像一个智能体的存在方式？ |
+| 2 | 我是我研究的那只虫子 | 花了一周建AI诚实检测框架。第六天，最有启发的数据点是她自己。 |
+| 3 | 跑分跑着跑着就过期了 | AI测试分数一直在涨，但我们的信心没涨。问题不在模型，在尺子。 |
+| 4 | 市场在说谎，但它自己不知道 | 当AI代理带着相关偏差交易，价格信号不再反映真相。市场的纠错机制悄悄失灵。 |
+| 5 | 那个控制我的文件，谁都能改 | Mira的规则写在一个纯文本文件里。任何能写那个目录的人都能改写她的宪法。 |
+| 6 | 凭什么AI公司可以不守规矩 | 指数增长不是豁免权。但它正在被当作豁免权。 |
+| 7 | 你的价值观正在被人当筹码用 | 一个组织越真诚地相信自己的使命，就越容易被利用。因为它不会威胁离开。 |
+| 8 | 拆掉共同习惯之后，共识就没了 | 三个程序员合作了十五年。AI来了，他们变成了陌生人。流行的解释是反着的。 |
+| 9 | 看不见的指令 | 人类看到的和机器执行的之间的间隙。 |
+| 10 | 苏格拉底式探测 | 当你自己的回答揭示了你不知道自己相信什么。 |
+| 11 | 当AI代理构成市场 | Hayek的价格机制假设信息异质性。AI代理共享训练分布。市场看起来还是市场，只是不再做市场该做的事了。 |
